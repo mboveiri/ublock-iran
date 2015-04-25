@@ -15,6 +15,7 @@
 !
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
+||zoomit.ads
 ||pcnetwork.ir/rbs_wrapper.swf
 ||shahrsakhtafzar.com/images2/mahak.png
 ||shahrsakhtafzar.com/images2/green_psu.gif
@@ -516,3 +517,7 @@ www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--double.sidebar
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div:nth-of-type(2)
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div > div
+www.zoomit.ir##.banneritem
+www.zoomit.ir##img[alt="تاکسی یاب"]
+www.zoomit.ir##a[href^="/component/banners/"]
+www.zoomit.ir##.style-plain.bannergroup
