@@ -213,7 +213,6 @@
 ##a[href^="http://kimiyagostar.com/"]
 ##a[href^*="http://computerir.com"]
 ##a[href^*="http://www.01kala.com/"]
-##a[href^="#"]
 ##a[href^*="http://tidbit.ir"]
 ##a[href^*="http://www.sonyir.com"]
 ##a[href^*="http://www.kishonline.com/"]
