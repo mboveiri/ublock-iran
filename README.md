@@ -91,7 +91,8 @@ Kian Boveiri (کیان بویری)
       height="20"
       width="20">
 </sub>mehdi.boveiri@gmail.com
-<h1 p align="right">: مشکلات و پیشنهادات</h1>>
+
+<h1 p align="right">: مشکلات و پیشنهادات</h1>
 ##
 <h3 p align="right">[گزارش مشکلات و پیشنهادات](https://github.com/mboveiri/Iran-uBlocklist/issues)
 
