@@ -18,13 +18,15 @@ uBlock (AdBlock+) filter for iranian websites.
       width="20">
 </sub> [EasyList](https://easylist.adblockplus.org/en/)
 
-## <b><p align="right">: درباره</p>
+<h1 p align="right">: درباره</p></h1>
+##
 <p align="right">.این فیلتر برای حذف کردن تبلیغات تصویری و متنی از وب سایت های ایرانی است
 
 <p align="right">وضعیت : آلفا 
 
 
-##<p align="right">: حمایت 
+<h1 p align="right">: حمایت </h1>
+##
 **<p align="right">.شما می توانید با بازنشر این فیلتر در وبلاگ یا وبسایت خود، وهمچنین شبکه های اجتماعی به رشد این پروژه کمک کنید</p>**
 
 **<p align="right">.همچنین می توانید با بیت کوین حمایت مالی کنید**
@@ -40,8 +42,8 @@ uBlock (AdBlock+) filter for iranian websites.
       width="16">
 </sub> mehdi.boveiri@gmail.com
 
-## <p align="right">: نصب و استفاده 
-
+<h1 p align="right">: نصب و استفاده </h1>
+##
 <h1 align="center">: راهنمای نصب 
 
 #### <p align="center">uBlock Origin قدم اول : نصب
@@ -64,13 +66,13 @@ uBlock (AdBlock+) filter for iranian websites.
 ><p align="center">.را کلیک کنید Apply changes  را تیک دار کنید و در آخر  fa-ir List‎ را کلیک کنید و در آخر فیلتر اضافه شده، با نام  Parse دکمه ی
 <p align="center"> <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/custom.png">
 
-
-## <p align="right">: چشم انداز
+<h1 p align="right">: چشم انداز</h1>
+##
 > <p align="right">uBlock Origin اضافه شدن به فیلترهای دیگر زبانها در
 <p align="right">تمرکز بیشتر بر وبلاگهای ایرانی
 
-## <p align="right"> : توسعه دهندگان
-
+<h1 p align="right"> : توسعه دهندگان</h1>
+##
 Kian Boveiri (کیان بویری)
 >* 
 <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/fb.png"
@@ -89,7 +91,8 @@ Kian Boveiri (کیان بویری)
       height="20"
       width="20">
 </sub>mehdi.boveiri@gmail.com
-##<p align="right">: مشکلات و پیشنهادات
+<h1 p align="right">: مشکلات و پیشنهادات</h1>
+##
 <h3 p align="right">[گزارش مشکلات و پیشنهادات](https://github.com/mboveiri/Iran-uBlocklist/issues)
 
 
