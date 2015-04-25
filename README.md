@@ -44,7 +44,7 @@ uBlock (AdBlock+) filter for iranian websites.
 
 <h1 p align="right">: نصب و استفاده </h1>
 ##
-<h1 align="center">: راهنمای نصب 
+<h1 align="center">: راهنمای نصب </h1>
 
 #### <p align="center">uBlock Origin قدم اول : نصب
 > #### <p align="center">.متناسب با مرورگر خود را نصب کنید uBlock ابتدا افزونه ی 
@@ -91,7 +91,7 @@ Kian Boveiri (کیان بویری)
       height="20"
       width="20">
 </sub>mehdi.boveiri@gmail.com
-<h1 p align="right">: مشکلات و پیشنهادات</h1>
+<h1 p align="right">: مشکلات و پیشنهادات</h1>>
 ##
 <h3 p align="right">[گزارش مشکلات و پیشنهادات](https://github.com/mboveiri/Iran-uBlocklist/issues)
 
