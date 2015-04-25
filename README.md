@@ -94,6 +94,6 @@ Kian Boveiri (کیان بویری)
 
 <h1 p align="right">: مشکلات و پیشنهادات</h1>
 ##
-<h3 p align="right">[گزارش مشکلات و پیشنهادات](https://github.com/mboveiri/Iran-uBlocklist/issues)
+<h5 p align="right">[گزارش مشکلات و پیشنهادات](https://github.com/mboveiri/Iran-uBlocklist/issues)
 
 
