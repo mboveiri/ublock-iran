@@ -1,0 +1,519 @@
+[Adblock Plus 2.0]
+! لیست مسدود کننده ی تبلیغات وب سایتهای ایرانی
+! uBlock (AdBlock+) filter for iranian websites
+! Title: fa-ir List
+! Download : 
+! Licence : http://creativecommons.org/publicdomain/zero/1.0/
+! Homepage: https://github.com/mboveiri/Iran-uBlocklist
+!
+!
+! EasyList و فیلتر  uBlock0 : پیش نیاز 
+! uBlock0 : https://github.com/gorhill/uBlock/releases
+!
+! Issues : https://github.com/mboveiri/Iran-uBlocklist/issues
+! my e-mail : mehdi.boveiri@gmail.com
+!
+!----------------------- Filtres génériques -----------------!
+! [Ad Blocking Rules]/blocking
+||pcnetwork.ir/rbs_wrapper.swf
+||shahrsakhtafzar.com/images2/mahak.png
+||shahrsakhtafzar.com/images2/green_psu.gif
+|http://forum.persiantools.com/images/bm/*.swf
+||forum.persiantools.com/images/bm/*
+|http://forum.persiantools.com/images/bm/*.gif
+|http://forum.mobilestan.net/tablighat/*.swf
+|http://shop.mobilestan.net/latest.html
+|http://p30world.com/tablighat/*.swf
+||migahost.com/images/premium.png
+|http://www.xxlupload.com/images/premium.png
+||uploadfa.com/1.png
+|http://hipfile.com/728.gif
+|http://www.facebook.com/plugins/like.php?href=http://facebook.com/Uploadfa
+|http://uploadfa.com/images/mahak.png
+|http://www.zoomit.ir/images/banners/glasses-zoomit.swf
+|http://1forum.ir/images/bgrepeat.png
+|http://1hamrah.com/banners/468-60.gif
+||rasik.host56.com^
+|http://thepiratebay.se/torrent/7524360/zypp5.swf
+|http://thepiratebay.se/browse/500/1/zypp5.swf
+|http://thepiratebay.se/torrent/*/zypp5.swf
+||forgif.me^
+||ir.ptcdn.org/forum/bm/digitcurrency.gif
+|http://ir.ptcdn.org/forum/bm/itech.swf
+|http://ir.ptcdn.org/forum/bm/digitcurrency.gif
+|http://ir.ptcdn.org/forum/bm/namdaran.gif
+|http://ir.ptcdn.org/forum/bm/mehrsell.swf
+|http://ir.ptcdn.org/forum/bm/*.swf
+|http://ir.ptcdn.org/forum/bm/*.gif
+|http://forum.persiantools.com/images/gradients/grey-up.png$domain=~persiantools.com
+|http://avaserver.com/img/avashop.gif
+||29soft.com/pcgameimage/Secret_Service_In_Harms_Way/*
+|http://ir.ptcdn.org/forum/bm/webtarget.jpg
+|http://ir.ptcdn.org/forum/bm/pixel.jpg
+|http://irpopup.ir/Banners/IRPU468in60.gif
+||farskids325.com/wp-content/uploads/2013/02/333.jpg
+|http://www.farskids325.com/wp-content/uploads/2013/02/g859_op.gif
+||farskids325.com/wp-content/uploads/2013/02/*
+|http://www.farskids325.com/wp-content/uploads/2013/02/*.gif
+|http://www.farskids325.com/wp-content/uploads/2013/01/*.gif
+|http://www.farskids325.com/wp-content/uploads/2013/03/*.gif
+||ad.utop.ir/banners/*
+||ad.utop.ir/b/*
+||http://lioncomputer.ir/uppic/images/qk0byop07y6g60vb7mxi.gif
+||http://cdn.tynt.com/tc.js
+||http://dlteh*.asia/Pic/Block/*ADS*/User%20Ads/alfanewb.gif
+||http://dlteh*.*/Pic/Block/ADS/User%20Ads/*
+||dlteh2.asia/Pic/Block/ADS/User%20Ads/*
+||ir.ptcdn.org/forum/bm/*
+||telewebion.com/srsAdvertisementPlugin/file/*
+|http://up.faash.ir/up/biugerafi/Pictures/*.gif
+|http://itemtracking.post.ir/Images/firstpage/header2.gif
+|http://kimiaonline.com/SiteImage/PopUp.png
+||softgozar.com/Image/SiteAde/*
+|http://www.softgozar.com/Image/SiteAde/*.gif
+||fbm.ptcdn.ir/banners/backlink.gif
+|http://lioncomputer.ir/uppic/images/2illovzot9wlhkmxmzzq.jpg
+||uploadboy.com/banner/*
+|http://uploadboy.com/template/img/beapremium300.gif
+|http://cdn.uploadbaz.com/ub900.140.swf
+||fbm.ptcdn.ir/banners/*
+|http://forum.persiantools.com/styles/default/xenforo/cornerclose.png
+|http://charter724.ir/template/charter/ads/gol.gif
+|http://charter724.ir/template/charter/images/body_bg.png
+||www.shahrsakhtafzar.com/fa/images/banners/xp-468.swf
+||www.shahrsakhtafzar.com/fa/images/banners/ASUS-468norooz.gif
+||www.shahrsakhtafzar.com/fa/images/banners/iGREEN.gif
+||www.shahrsakhtafzar.com/fa/images/banners/S.Sakht%20Afzar%20248%20x%20200%202.gif
+||www.shahrsakhtafzar.com/fa/images/m777/ssa-big-contest-red-norouz.jpg
+||www.shahrsakhtafzar.com/fa/images/banners/M248.swf
+||www.shahrsakhtafzar.com/fa/images/sha2/Avajang-e-Support-SideBanner.jpg
+||www.p30world.com/wp/wp-content/uploads/2015/04/DownloadPlus-728-x-90.swf
+||www.p30world.com/wp/wp-content/uploads/2015/02/468-aypan-60.gif
+||img.soft98.ir/0_irprogram_2.gif
+||img.soft98.ir/0_hostdl6.gif
+||www.p30world.com/nw_imgs/download-1.gif
+||www.overclockingheroes.com/images/banner/Xp-banner-497x90.swf
+||overclockingheroes.com/images/banner/ASRockt-497x90.swf
+||overclockingheroes.com/images/banner/GREEN(1).gif
+||overclockingheroes.com/images/banner/g.skill.jpg
+||digiato.com/wp-content/uploads/2015/04/729x80.gif
+||digiato.com/wp-content/uploads/2015/04/75.gif
+||digiato.com/wp-content/uploads/2015/04/Pishgaman-265-x-265.swf
+||onegate.ir/Publisher/getBanners?slotId=16&pId=31
+||digiato.com/wp-content/uploads/2015/04/265-265.gif
+||digiato.com/wp-content/uploads/2015/01/Parscanon-Banner-1.swf
+||digiato.com/wp-content/uploads/2015/04/Digiato-P51-265-x-265.gif
+||digiato.com/wp-content/uploads/2015/03/8g1u4zb6n604kpv4pl5.gif
+||digiato.com/wp-content/uploads/2015/04/togital-shop.gif
+||digiato.com/wp-content/uploads/2015/03/unnamed.png
+||digiato.com/wp-content/uploads/2015/03/Digiato-265-X-265.gif
+||digiato.com/wp-content/uploads/2014/06/afranet.jpg
+||digiato.com/wp-content/uploads/2015/02/265x265.gif
+||dms.bamilo.com/banner/zoomit-270x225-1424877728.htm
+||www.zoomit.ir/images/banners/93/img/ZTE-norouz-94-270x225Zoomit.gif
+||www.zoomit.ir/images/banners/93/img/270dar225.jpg
+||winphone.ir/wp-content/uploads/2015/04/%D8%B3%D8%B1%D8%A7%DB%8C-%D8%B9%D9%84%D9%8501-1.jpg
+||winphone.ir/wp-content/uploads/2014/09/SingleAds.jpg
+||www.sakhtafzarmag.com/images/banners/Asus.gif?ssitoken_1429687979889_
+||www.sakhtafzarmag.com/images/banners/LG-Mobile-Banner.swf
+||www.sakhtafzarmag.com/images/banners/Green-Left.gif
+||www.sakhtafzarmag.com/images/banners/liva.gif
+||www.sakhtafzarmag.com/images/banners/Computex2015.gif
+||www.sakhtafzarmag.com/images/banners/Meghdad.swf
+||www.sakhtafzarmag.com/images/banners/Green-right.gif
+||tehrantimes.com/banner/tt.jpg
+||tehrantimes.com/banner/link3.jpg
+||static2.varzesh3.com/files/ads/*.*
+||www.sabavision.com/showads.php
+||static.aparat.com/public/images/contest/pelakebahari/banner_index.png
+||www.sabavision.com/showads.php
+||facenama.com/images/ads/*.*
+||upload7.ir/uploads//62b13eb0fb88318df3e7e51014e87a145f0e9cf7.gif
+||up.facenama.com/file/48685/1423609803478323_gif.gif
+||facenama.com/images/ads/1424362256327864.gif
+||farsnews.com/Banner/MainPage/Left/*.gif
+||cdn.tabnak.ir/files/adv/*.gif
+||cdn.tabnak.ir/files/adv/11123_186.jpg
+||http://cdn.tabnak.ir/files/adv/*.swf
+||cdn.tabnak.ir/files/adv/*.*
+||www.beytoote.com/shops/goldiran728.html
+||storage.beytoote.com/images/banners/*.*
+||www.rozblog.com/images/ads/*.*
+||rozblog.com/images/ads/up.html
+||ad.utop.ir/
+||rozblog.com/images/ads/*.*
+||ads.rozblog.com
+||ads.sabavision.com
+||www.shahrekhabar.com/swf/*.gif
+||www.shahrekhabar.com/swf/1425709918925.png
+||ad.utop.ir
+||www.shahrekhabar.com/swf/*.gif
+||cdn.asriran.com/files/adv
+||static.locopoc.com
+||static.locopoc.com/AsrIran
+||www.mashreghnews.ir/files/adv/
+||www.yjc.ir/files/adv/
+||dms.bamilo.com
+||images.khabaronline.ir/system/menus/2/2015_4_21_16_7_19.gif
+||images.khabaronline.ir/system/menus/2/192.swf
+||images.khabaronline.ir/system/menus/11/khabaronline-192x140-lg_29inch_monitor.swf.swf
+||dms.bamilo.com
+||images.khabaronline.ir/system/menus/7/530x60-2.swf
+||images.khabaronline.ir/system/menus/12/danapardaz.gif
+||newsmedia.tasnimnews.com/Tasnim/Uploaded/Ads
+||img1.tebyan.net/mainParts/persian/services/Advertisement
+||cdn.bartarinha.ir/files/adv
+||www.afkarnews.ir/images/advertise
+||www.afkarnews.ir/images/advertise/
+||static.khabarefarsi.com/sites/default/files/ads/*/*-*.gif
+||static.khabarefarsi.com/sites/default/files/ads/*/*-*.gif
+||static.khabarefarsi.com/sites/default/files/ads
+||s.mobile.ir/Static/banners/
+||uploadboy.com/banner/*.*
+||khabarpu.com/banner
+||www.ad2ad.ir
+||a.clickyab.com
+||ad.anetwork.ir
+||downloadha.com/shop/sabavision
+||downloadha.com/shop/*.gif
+||dl5.downloadha.com/hosein/*.swf
+||www.e-estekhdam.com/wp-content/themes/purple/assets/img/employers_1.png
+||www.e-estekhdam.com/wp-content/themes/purple/assets/img/cv_builder.png
+||cdn.fararu.com/files/adv/
+||dms.bamilo.com/banner/niksalehi-720x90-14248733578.htm
+||www.niksalehi.com/ads-left/*.*
+||www.ads.virlan.co
+||sabavision.com
+||www.niksalehi.com/ads-right/
+||www.niksalehi.com/random0
+||ssads.net
+||www.hammihan.com/ads/
+||p30download.com/ad/
+||dms.bamilo.com/banner/
+||p30download.ads.saba-e.com/
+||p30download.com/ads/
+||p30download.ads.sabavision.com/
+||www.entekhab.ir/files/adv/
+||www.softgozar.com/Image/SiteAde/
+||www.softgozar.com/Image/Base/Home_Bk_t.png
+||persiangig.ads.saba-e.com/
+||www.persianv.com/ads-left/
+||mtab.rayanmehr.co.ir
+||www.persianv.com/ads-left/
+||adv.arnatech.ir
+||img.doostiha.ir/uploads/2014/07/Line.jpg
+||www.akhbarkhoon.com/links/index.php
+!
+!
+!
+!------------[Element Hiding Rules]/elemhide-----------!
+##.sallar[href^="http://sallar.me/"]
+##a[href^^="http://go.ad2up.com/afu.php"]
+##a[href^="http://www.meghdadit.com/"]
+##a[href^="http://kimiyagostar.com/"]
+##a[href^*="http://computerir.com"]
+##a[href^*="http://www.01kala.com/"]
+##a[href^="#"]
+##a[href^*="http://tidbit.ir"]
+##a[href^*="http://www.sonyir.com"]
+##a[href^*="http://www.kishonline.com/"]
+##a[href^="http://ugy.ir/"]
+##a[href^="http://www.moshaver.co"]
+##a[href^="http://www.emigration-co.com"]
+##a[href^="http://shop-star.ir/"]
+##a[href^="http://dejkoob.com"]
+##a[href^="http://dejkoob.com/"]
+##a[href^="//go.ad2up.com/afu.php"]
+##a[href^="http://www.rastinsms.com/ADV.aspx"]
+##a[href^="http://www.karconf.ir/"]
+##a[href^="http://milogy.com/"]
+##*.dms.bamilo.com
+##a[href="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(1) > img[alt="تبلیغات "]
+##a[href="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(2) > img[alt="تبلیغات "]
+###a[href^="http://www.mihanstore.net/in.php"]
+##a[href="http://shop-star.ir/فروش عینک آفتابی لوئیس ویتون اصل/"]
+##a[href="http://shop-star.ir/فروش ساعت کاسیو طلایی با گارانتی تعویض/"]
+##a[href="http://shop-star.ir/فروش عینک آفتابی ریبن کلاب مستر/"]
+##a[href="http://www.zar.ir/"]
+##a[href^="http://www.sheypoor.com"]
+##a[href^="http://panel.e-estekhdam.com/ad_requests/add/"]
+##a[href^="http://panel.e-estekhdam.com/cvs/download/"]
+##a[href^="http://www.papria.com/"]
+##a[href^*="tik8.com/"]
+##a[href^="http://1pezeshk.com/1pezeshk-ads"]
+##a[href^="http://www.rtl-theme.com/"]
+##a[href^^="http://averta.net/main/jobs/"]
+##a[href^="http://www.khanwars.ir/"]
+##a[href^="http://www.mihanstore.net/in.php"] > img
+##a[href="http://www.drzaker.com"]
+##a[href="http://arayeshiran.com/"]
+##a[href^="http://www.meghdadit.com/"]
+##a[href^^="http://averta.net/main/jobs/"]
+!
+!
+!
+!----------------------- Éléments -----------------------!
+*.*/Pic/*vpn*.*
+*.*/Music/Piic/*.gif
+http://mforw.persiangig.com/swf/2/26.swf
+1forum.ir###footer_bar
+google.com###vdls-advs
+google.com##.tas.knavi
+1forum.ir##IMG[src="http://www.adgostar.com/banners/shop.gif"]
+edoc.com###stp-bg
+forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/p24.gif"]
+forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/eniac.gif"]
+forum.persiantools.com##.ad-container.clearfix
+forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/khodroreview.jpg"]
+farskids325.com##.textwidget
+s1.picofile.com##OBJECT[width="468"]
+s1.picofile.com###ads
+picofile.com##IMG[src="http://ad.utop.ir/b/takhfifan-pico-233.gif"]
+picofile.com##IMG[style="width:468px; height=60px;"][src="http://ad.utop.ir/b/135229393746860-189.gif"]
+picofile.com##IMG[style="width:468px; height=60px;"][src*="http://ad.utop.ir/b/*.gif"]
+s1.picofile.com##IMG[src*="http://ad.utop.ir/banners/*.*"]
+mediafire.com##.dlPromo1Content.dlPromoContent
+moviecenter15.org##SPAN[style="margin-top:0px"]
+##IMG[src="http://s3.picofile.com/file/7722034187/parscom.gif"]
+##IMG[src="http://up.vbiran.ir/uploads/13650753552369_Banner2.gif"]
+##[href="http://beshkan11.biz/"] > IMG[src="http://s2.picofile.com/file/7709492903/fxomkxxk9jmcnidjhaw8.gif"]
+farskids329.com##.ads_single_top + .ads_single_body
+farskids329.com##.banners > .textwidget
+##IMG[src*="http://dlteh.asia/Pic/Block/ADS/User%20Ads/*"]
+persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/pixel2.jpg"]
+forum.persiantools.com##A[href="http://ads.persiantools.com"]
+forum.persiantools.com###yuievtautoid-0
+forum.persiantools.com##.bmpt
+google.com###tads
+###ad54 + * + * + * + * > P[style="padding-bottom:10px"]
+teh-music26.asia###ad54 + * + * + * + * + * TD[bgcolor="#131313"]
+###ad54 + * + * + * + * > P[style="padding-top:10px;padding-bottom:10px"]
+##[href="http://esam.ir/"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'esam.ir', '/']);"] > IMG[title="شرکت توسعه فناوری اطلاعات سیستم های تجارت ویرا سام"]
+and-roid.ir##[href="http://netbarg.com/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'netbarg.com', '/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75']);"] > IMG
+forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1428831453694_"]
+forum.persiantools.com##SPAN.ptinnerbox
+forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][alt="rond.ir"][ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
+forum.persiantools.com##SPAN.ptbbox
+forum.persiantools.com##IMG[alt="rond.ir"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1429172542447_"]
+forum.persiantools.com##IMG[ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
+soft98.ir###container3 > .centp:nth-of-type(1)
+soft98.ir###left > div:nth-of-type(1) > .block_asli
+soft98.ir###left > div:nth-of-type(1) > .block_f_t.block_h_1
+soft98.ir###left > .block_asli
+soft98.ir###left > .block_f_t.block_h_1
+soft98.ir###left > .bor1
+soft98.ir###left > div:nth-of-type(1) > .bor1
+soft98.ir###container3 > div:nth-of-type(2)
+www.shahrsakhtafzar.com###rt-transition > center
+forum.p30world.com###ad_global_below_navbar
+www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(1) > .rt-block
+www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(2) > .rt-block
+www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(3) > .rt-block
+www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(4) > .rt-block
+www.shahrsakhtafzar.com###rt-sidebar-a > .line > .rt-block > .module-surround
+www.shahrsakhtafzar.com###rt-sidebar-a > .line > .rt-block
+www.zoomit.ir###rt-afterpost > div > .deepest.mod-box.clearfix.bannergroup
+www.zoomit.ir###rt-afterpost
+www.zoomit.ir###Mod228 > .module-inner > .module-ct > .style-plain.bannergroup > .banneritem:nth-of-type(2)
+winphone.ir###banner-2
+soft98.ir###dle-content > .block_asli
+soft98.ir###dle-content > .block_f_t.block_h_1
+soft98.ir###right > aside > .cent.block_asli:nth-of-type(4)
+soft98.ir###right > aside > .block_f.block_h_1:nth-of-type(2)
+soft98.ir###right > aside > .bor1:nth-of-type(2)
+soft98.ir###dle-content > article > .block_asli > .text > .centp
+www.havairan.com###bar
+gooya.com###Table_01 > tbody > tr:nth-of-type(1)
+gooya.com##body > table:nth-of-type(3) > tbody > tr > td:nth-of-type(8)
+www.aparat.com###box_recoms > .hidden_s0.notShowAds
+www.aparat.com###videoOne_player > .player_panel.hidden_s0.clearfix
+farsnews.com##body > .container:nth-of-type(5) > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.hidden-sm.col-md-5.adscolumn > .advertisement
+farsnews.com##body > .container:nth-of-type(5) > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .pull-right.col-lg-7.col-sm-12.col-md-7.leftmainnewspane > p:nth-of-type(1)
+persianblog.ir###ads
+www.tabnak.ir###news_top > .ticker_container > .marquee_container > .marquee_content > marquee
+www.tabnak.ir###news_top > .ticker_container > .marquee_container
+www.beytoote.com###sidebar-b > .grid-v.width100.grid-box:nth-of-type(1) > .deepest.module > .color-color.bannergroupstyle-body
+www.beytoote.com###sidebar-b > .grid-v.width100.grid-box:nth-of-type(3) > .deepest.module > .color-color.bannergroupstyle-body > .banneritem > .mod-box
+www.beytoote.com###sidebar-a > .grid-v.width100.grid-box:nth-of-type(2)
+www.beytoote.com###sidebar-a > .grid-v.width100.grid-box:nth-of-type(2) > .deepest.module > .deepest.mod-box-color.mod-box.module
+www.beytoote.com###toolbar > .float-left > .deepest.module > .menu-line.menu > .item634.level1 > .level1[href="http://charge.beytoote.com/"] > span
+www.beytoote.com###toolbar > .float-left > .deepest.module > .menu-line.menu > .item585.level1 > .level1[href="/advertise.html"] > span
+www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item634.level1 > .level1[href="http://charge.beytoote.com/"] > span
+www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item585.level1 > .level1[href="/advertise.html"] > span
+www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item634.level1
+s4.picofile.com###ads
+www.rozblog.com##body > div:nth-of-type(3) > .ads_news > .ads_1 > .btn-ads[href="/ads.php"]
+www.rozblog.com##body > div:nth-of-type(3) > .ads-slid > .ads-text
+www.rozblog.com##body > div:nth-of-type(3) > .ads_news > .ads_1
+www.rozblog.com##body > div:nth-of-type(3) > .text_ads_down > fieldset
+www.cloob.com###page_left_col > .secondary-left-col_content > .clearfix.boxStart > div:nth-of-type(2) > center
+www.cloob.com###page_left_col > .secondary-left-col_content > .clearfix.boxStart > .clearfix.makeTitle
+www.cloob.com###toggle_menu > .clearfix > .clearfix.boxStart
+nogrehnews.blogsky.com###kjx3j
+nogrehnews.blogsky.com###pak8b
+www.shahrekhabar.com###page > .left.sidebar
+www.shahrekhabar.com##body > table:nth-of-type(2) > tbody > tr > td
+www.asriran.com##.page_home > .home_adv
+www.yjc.ir##.page > .main > .col5 > div:nth-of-type(2) > div:nth-of-type(1)
+www.yjc.ir##.page > .main > .col5 > div:nth-of-type(3)
+www.khabaronline.ir##.wrapper > .homeMainContainer > .advCol
+www.khabaronline.ir##.wrapper > .homeMainContainer > .leftCol > .advCon
+www.khabaronline.ir##.wrapper > .detailPageCont > .leftCol > .leftColAdvCon:nth-of-type(1) > .advCon
+www.khabaronline.ir##.wrapper > .detailPageCont > .advCol
+www.khabaronline.ir##.wrapper > .mainHeaderCont > .headerLogoCont > .left > .headerBannerPlaceHolder > .advCon
+www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(6) > .advCon
+tebyan.net###Context > .MainMidlle.midllepanel > .insidecon > .tpnlIC.tpnl > .lpnlTIC.bannerlicon.lpnl > .bannerboxleft.window8
+www.tebyan.net###ctl07_ctl05_ctl00_pnlPartMenuArticle > .LeftPanelBox
+isna.ir##div > .master > tbody > tr > .col3 > .col:nth-of-type(3) > .advcol-OBSERVANCE
+isna.ir##div > .master > tbody > tr > .col4 > .advcol-trailing-column
+isna.ir##div > .master > tbody > tr > .col4 > .advcol-news-trailing-column
+isna.ir##div > .master > tbody > tr > .colNews > .news > .advcol-news-bottom
+www.afkarnews.ir###ad_sidebar_line
+www.afkarnews.ir###ad_sidebar_general_title
+www.afkarnews.ir###doc_sidebar > div:nth-of-type(2)
+khabarfarsi.com###ads_bar
+www.mobile.ir###specialbanner
+www.mobile.ir###bottombanner
+www.mobile.ir###topmenu > .banner
+uploadboy.com##.container > div > form > div:nth-of-type(3) > .row > .adsbygoogle
+uploadboy.com##.adsbygoogle
+uploadboy.com##.adsbygoogle
+khabarpu.com###left > .lbox:nth-of-type(2)
+khabarpu.com###left > .lbox
+khabarpu.com##.share-new
+www.akairan.com###rightcolumn > .inside-col > .moduletable-banner
+www.akairan.com###ban44
+www.akairan.com###target8771
+www.akairan.com###leftcolumn > .inside-col > .moduletable-banner
+www.akairan.com###bottom-b > .grid-h.width100.grid-box > .deepest.shop.mod-box.module > .moduletablewww\/all > h3
+www.akairan.com###showcase894
+www.akairan.com###sitecontent > .inside
+news.akairan.com###rightcolumn > .inside-col > .moduletable-banner
+news.akairan.com###leftcolumn > .inside-col > .moduletable-banner
+news.akairan.com###position_top > .moduletable-banner
+news.akairan.com###bottom-b > .grid-h.width100.grid-box > .deepest.shop.mod-box.module > .moduletable-banner
+www.downloadha.com##.header > .spbanners
+www.downloadha.com###main > .main-container > font > font > .leftsidebar > .collapse.aside.widget > center
+www.downloadha.com###main > .main-container > font > font > .leftsidebar > .collapse.aside.widget > .title > h3
+www.downloadha.com###main > .main-container > .maincontent > .topbanners468
+www.downloadha.com###main > .main-container > .maincontent > .post > .entry-etc > .post-content > center > font:nth-of-type(1) > span > a[href^="http://www.mihanstore.net/in.php"]
+www.downloadha.com###main > .main-container > .maincontent > .post > .entry-etc > .post-content > center > center > span > span > p:nth-of-type(3) > font > span > a[href^="http://www.mihanstore.net/"]
+www.downloadha.com###main > .main-container > .maincontent > .post > .entry-etc > .post-content > center
+www.downloadha.com###main > .main-container > .maincontent > .post > .entry-etc
+www.downloadha.com###main > .main-container > .maincontent > .post > .arrow
+www.downloadha.com###main > .main-container > .maincontent > font > .post > .entry-etc > .post-content > p > font:nth-of-type(2) > span > a[href^="http://www.iraniptv.net/"]
+www.downloadha.com###main > .main-container > .maincontent > font > .post > .entry-etc
+www.downloadha.com###main > .main-container > .maincontent > font > .post > .arrow
+www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(1) > .entry-etc
+www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(1) > .arrow
+www.downloadha.com###main > font > font > .rightsidebar > .rightsc > .adsright.rightsidebarc > center
+www.downloadha.com###main > font > font > .rightsidebar > .rightsc > .adsright.rightsidebarc > .title
+www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(4) > .entry-etc
+www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(4) > .arrow
+www.downloadha.com##.entry-etc
+www.downloadha.com###main > .main-container > .maincontent > font > font > font > font > .post:nth-of-type(6) > .arrow
+www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(3) > .arrow
+www.downloadha.com###main > .rightsidebar > .rightsc > .adsright.rightsidebarc > center
+www.downloadha.com###main > .rightsidebar > .rightsc > .adsright.rightsidebarc > .title
+
+fararu.com##.txt_adv_content
+fararu.com##.page > .news_body > .news_col3 > .txt_adv_container
+fararu.com##.page > .page_body > .first_row > .first_row_l > .first_row_l_b > .first_row_l_col2 > .txt_adv_container
+pop-music.ir##img[alt="ads"]
+pop-music.ir##.wrapper > .maincontent > .leftside > .hidden-xs.adv-left:nth-of-type(1)
+pop-music.ir###first
+pop-music.ir###second
+pop-music.ir##.wrapper > .maincontent > .leftside > .hidden-xs.adv-left
+pop-music.ir##.wrapper > .maincontent > .postbox > .latestforum:nth-of-type(5) > .define-post > p:nth-of-type(1)
+pop-music.ir##.wrapper > .maincontent > .postbox > .latestforum:nth-of-type(5) > .define-post
+pop-music.ir##.wrapper > .maincontent > .postbox > .post:nth-of-type(11) > .define-post
+niksalehi.com##body > div:nth-of-type(2) > .container > .top_ads_one
+niksalehi.com##body > div:nth-of-type(2) > .container > .top_ads_two > div > div:nth-of-type(1)
+niksalehi.com##body > div:nth-of-type(2) > .container > .top_ads_two > div > div:nth-of-type(1)
+niksalehi.com##body > div:nth-of-type(2) > .container > .top_ads_three
+niksalehi.com###skinak_ads_bottom_left_125 > div:nth-of-type(1)
+niksalehi.com###skinak_ads_bottom_right_125 > div:nth-of-type(1)
+niksalehi.com###skinak_ads_bottom_right_125
+niksalehi.com###skinak_ads_bottom_left_125
+p30download.com###sidebar > .sidebar-ads.widget
+p30download.com###main-content > .article-wrapper:nth-of-type(4) > .post
+p30download.com###main-content > .product-wrapper
+p30download.com###main-content > .article-wrapper:nth-of-type(3) > .post
+p30download.com###main-content > .article-wrapper:nth-of-type(3)
+p30download.com###sidebar > .text-ads
+p30download.com##body > div:nth-of-type(6)
+p30download.com###main-content > .article-wrapper:nth-of-type(9) > .post
+p30download.com###main-content > .product-wrapper
+p30download.com###main-content > .ad-468:nth-of-type(2)
+p30download.com###sidebar > .sidebar-ads.widget
+www.entekhab.ir##.page > .page_body > .col3 > .adv_col
+mehrnews.com###sidebar > .row > .hidden-xs.hidden-sm.col-xs-13
+mehrnews.com###sidebar > .row > .col-md-19.col-sm-32.col-xs-32 > .ads.box
+rozup.ir##.main > .right-block > .txtad
+rozup.ir##.main > .right-block > .reqtxt[href="#"]
+www.softgozar.com###MasterTable > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(2)
+www.softgozar.com###MasterTable > tbody > tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > center:nth-of-type(3) > .Label > .awsize-120-240.anetwork-xc-banner
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(1) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(2) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(3) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(4) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(6) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(5) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(8) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(9) > td
+www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(7) > td > table
+www.softgozar.com###MasterTable > tbody > tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
+www.softgozar.com###MasterTable > tbody > tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > table > tbody > tr > td
+cld.persiangig.com###cldpg > .content > .center > .clearfix:nth-of-type(1)
+vista.ir##body > .container:nth-of-type(3) > .row > .span3 > .adfeatu
+vista.ir##body > .container:nth-of-type(3) > .row > .span3 > .headback:nth-of-type(5) > a[href="/ads/"]
+pardad.ir###ctl00_BottomBox_pnlBottom > .H_Box_940 > div:nth-of-type(1) > div > table
+pardad.ir###sidebar1 > .PT_Top
+pardad.ir###ctl00_LeftBox_pnlLeft > .PT_Top:nth-of-type(1)
+pardad.ir###ctl00_LeftBox_pnlLeft > .PT_Top:nth-of-type(1)
+pardad.ir###ctl00_RightBox1_pnlRight > div:nth-of-type(2)
+pardad.ir###ctl00_RightBox1_pnlRight > div:nth-of-type(4)
+pardad.ir###ctl00_RightBox1_pnlRight > .Top_Cat:nth-of-type(3)
+pardad.ir###ctl00_RightBox1_pnlRight > .Top_Cat:nth-of-type(1)
+pardad.ir###ctl00_MiddelBox_pnlMiddel
+pardad.ir###ctl00_TopBox_BeforeRelated_divBeforeTop > div:nth-of-type(2) > table > tbody > tr > td
+pardad.ir###ctl00_TopBox_BeforeRelated_divBeforeTop > div:nth-of-type(2) > center > center > table > tbody > tr > td
+pardad.ir###ctl00_TopBox_BeforeRelated_divBeforeTop > div:nth-of-type(2) > center > center > table > tbody > tr
+pardad.ir###ctl00_BottomBox_pnlBottom > .H_Box_940
+pardad.ir###ctl00_RightBox1_pnlRight > .Top_Cat:nth-of-type(9)
+pardad.ir###ctl00_RightBox1_pnlRight > .Top_Cat:nth-of-type(6)
+persianv.com##.top_ads_two
+persianv.com##body > div:nth-of-type(2) > .container > .top_ads_one
+persianv.com##body > div:nth-of-type(2) > .container > .top_ads_three
+persianv.com##body > div:nth-of-type(1) > .container > .main_content > .left_side > .leftads_0:nth-of-type(5) > .text-content-link > .h-one > a[href="http://www.persianv.com"]
+www.persianv.com##body > div:nth-of-type(2) > .container > .top_ads_one > div
+www.persianv.com##body > div:nth-of-type(2) > .container > .top_ads_two > div
+90tv.ir###navad > .container > .row:nth-of-type(2) > .col-md-4.col-xs-12 > .ads-boxes-wrapper.widget-clean.widget
+90tv.ir##header > .header-top > .container > .row > .text-left.col-sx-12.col-md-6 > .wcup-noborder.ads-boxes-wrapper
+90tv.ir###navad > .container > .row:nth-of-type(2) > .right.col-md-8.col-xs-12 > .ads-boxes-wrapper.widgets:nth-of-type(4)
+90tv.ir###navad > .container > .row:nth-of-type(2) > .right.col-md-8.col-xs-12 > .splitter
+www.doostiha.ir###skinak_ads_bottom_right_125
+www.doostiha.ir###skinak_ads_bottom_left_125
+www.doostiha.ir##p:nth-of-type(24)
+www.doostiha.ir##.ads.sidebar-box
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(20)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(19)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(18)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(8)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(8)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
+www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--double.sidebar > .com--image > p
+1pezeshk.com##.main-header__ad
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(4) > .body > .sidebar__text-list > .sidebar__box:nth-of-type(1)
+1pezeshk.com##.com--article:nth-of-type(3)
+1pezeshk.com##.main-wrapper > .columns.container > .articles.columns__timeline.columns__column--major.columns__column > .com--article:nth-of-type(3)
+1pezeshk.com##.main-wrapper > .columns.container > .articles.columns__timeline.columns__column--major.columns__column > .com--article:nth-of-type(3)
+1pezeshk.com##.main-wrapper > .columns.container > .articles.columns__timeline.columns__column--major.columns__column > .com--article
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(4) > .body > .sidebar__text-list > .sidebar__box:nth-of-type(3)
+1pezeshk.com##.main-wrapper > .columns.container > .columns__article.columns__column--major.columns__column > .widget-text.textwidget
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(4) > .body > .sidebar__text-list > .sidebar__box:nth-of-type(4)
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--double.sidebar
+www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div:nth-of-type(2)
+www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div > div
