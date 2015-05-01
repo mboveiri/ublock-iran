@@ -15,6 +15,7 @@
 !
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
+||digiato.com/wp-content/uploads/2015/04/digiato-265-265.gif
 ||zoomit.ads
 ||pcnetwork.ir/rbs_wrapper.swf
 ||shahrsakhtafzar.com/images2/mahak.png
@@ -228,13 +229,11 @@
 ##a[href^="http://www.karconf.ir/"]
 ##a[href^="http://milogy.com/"]
 ##*.dms.bamilo.com
-##a[href="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(1) > img[alt="تبلیغات "]
-##a[href="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(2) > img[alt="تبلیغات "]
+##a[href^="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(1) > img[alt="تبلیغات "]
+##a[href^="http://nogrehnews.blogsky.com/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-2"]:nth-of-type(2) > img[alt="تبلیغات "]
 ###a[href^="http://www.mihanstore.net/in.php"]
-##a[href="http://shop-star.ir/فروش عینک آفتابی لوئیس ویتون اصل/"]
-##a[href="http://shop-star.ir/فروش ساعت کاسیو طلایی با گارانتی تعویض/"]
-##a[href="http://shop-star.ir/فروش عینک آفتابی ریبن کلاب مستر/"]
-##a[href="http://www.zar.ir/"]
+##a[href^="http://shop-star.ir/"]
+##a[href^="http://www.zar.ir/"]
 ##a[href^="http://www.sheypoor.com"]
 ##a[href^="http://panel.e-estekhdam.com/ad_requests/add/"]
 ##a[href^="http://panel.e-estekhdam.com/cvs/download/"]
@@ -249,6 +248,8 @@
 ##a[href="http://arayeshiran.com/"]
 ##a[href^="http://www.meghdadit.com/"]
 ##a[href^^="http://averta.net/main/jobs/"]
+##a[href="http://zibashavim.ir"]
+##a[href^="http://digiato.com/ads"]
 !
 !
 !
@@ -521,3 +522,5 @@ www.zoomit.ir##.banneritem
 www.zoomit.ir##img[alt="تاکسی یاب"]
 www.zoomit.ir##a[href^="/component/banners/"]
 www.zoomit.ir##.style-plain.bannergroup
+tadvingarha.ir###ads
+saz.sookhte.com##a[href="http://saz.sookhte.com/archive-sale"]
