@@ -13,6 +13,10 @@
 ! Issues : https://github.com/mboveiri/Iran-uBlocklist/issues
 ! my e-mail : mehdi.boveiri@gmail.com
 !
+!----------------------- Scripts -----------------!
+/popupurl.js
+/pop3.js
+/pop2joda.js
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
 ||digiato.com/wp-content/uploads/2015/04/digiato-265-265.gif
@@ -205,6 +209,9 @@
 ||adv.arnatech.ir
 ||img.doostiha.ir/uploads/2014/07/Line.jpg
 ||www.akhbarkhoon.com/links/index.php
+||www.apktops.ir/wp-content/uploads/2014/11/king-android-2015.jpg
+||apktops.ir/wp-content/uppic/myket.gif
+||www.apktops.ir/wp-content/uppic/game-toolfa.jpg
 !
 !
 !
@@ -250,6 +257,21 @@
 ##a[href^^="http://averta.net/main/jobs/"]
 ##a[href="http://zibashavim.ir"]
 ##a[href^="http://digiato.com/ads"]
+##a[href^="http://off.takshop91.biz/product.php"]
+##a[href^="http://www.myvr.ir/"]
+##a[href^="http://www.pay-724.ir/"]
+##a[href="http://www.apktops.ir/android-dr-web-anti-virus.html/"]
+##a[href^="http://www.gem-buy.com"]
+##a[href^="http://helida.ir/"]
+##a[href^="http://www.1bazi.com/"]
+##a[href^="http://www.apktops.ir/ads"]
+##a[href^="http://gift.appget.ir/"]
+###_apktb_27656 > .apkt[href="http://www.apktops.ir/android-7sharge-app.html/"]
+##a[href^="http://timbeet.com/"]
+##a[href^="http://gem.giftkala.com/"]
+##a[href^="http://www.khanwars.ir/"]
+##a[href^="http://go.ad2up.com/"]
+##a[href^="http://shop.iranget.com/"]
 !
 !
 !
@@ -524,3 +546,18 @@ www.zoomit.ir##a[href^="/component/banners/"]
 www.zoomit.ir##.style-plain.bannergroup
 tadvingarha.ir###ads
 saz.sookhte.com##a[href="http://saz.sookhte.com/archive-sale"]
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(10) > .clearfix.entry
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(11)
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(9)
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(10)
+forum.apktops.ir##.header > .ads
+forum.apktops.ir##.ads_below_navbar
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(3)
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(7) > .clearfix.entry
+www.apktops.ir##.tabliq
+www.apktops.ir##img[alt="asiatech"]
+www.apktops.ir###text-3 > .widgettitle
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(3)
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(5) > .clearfix.entry
+www.apktops.ir##a[href^="http://getapp.giftgift.ir"]
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(6) > .clearfix.entry
