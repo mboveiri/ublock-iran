@@ -461,8 +461,6 @@ niksalehi.com###skinak_ads_bottom_left_125
 p30download.com###sidebar > .sidebar-ads.widget
 p30download.com###main-content > .article-wrapper:nth-of-type(4) > .post
 p30download.com###main-content > .product-wrapper
-p30download.com###main-content > .article-wrapper:nth-of-type(3) > .post
-p30download.com###main-content > .article-wrapper:nth-of-type(3)
 p30download.com###sidebar > .text-ads
 p30download.com##body > div:nth-of-type(6)
 p30download.com###main-content > .article-wrapper:nth-of-type(9) > .post
