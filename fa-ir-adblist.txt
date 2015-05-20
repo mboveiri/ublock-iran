@@ -17,6 +17,7 @@
 /popupurl.js
 /pop3.js
 /pop2joda.js
+/code/popup
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
 ||digiato.com/wp-content/uploads/2015/04/digiato-265-265.gif
@@ -272,6 +273,15 @@
 ##a[href^="http://www.khanwars.ir/"]
 ##a[href^="http://go.ad2up.com/"]
 ##a[href^="http://shop.iranget.com/"]
+##a[href^="http://www.drnini.ir/"]
+##a[href^="http://shop-star.ir/"]
+##a[href^="http://www.drnini.ir/"]
+##a[href^="http://www.icelove.ir/"]
+##a[href^="http://ccli.ir/"]
+##a[href^="http://fantezicase.ir/"]
+##a[href^="http://www.worldwarpress.net"]
+##a[href^="http://www.hamyarshop.ir"]
+##a[href^="http://www.avazak.net/"]
 !
 !
 !
