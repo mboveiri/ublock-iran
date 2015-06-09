@@ -242,7 +242,6 @@
 ###a[href^="http://www.mihanstore.net/in.php"]
 ##a[href^="http://shop-star.ir/"]
 ##a[href^="http://www.zar.ir/"]
-##a[href^="http://www.sheypoor.com"]
 ##a[href^="http://panel.e-estekhdam.com/ad_requests/add/"]
 ##a[href^="http://panel.e-estekhdam.com/cvs/download/"]
 ##a[href^="http://www.papria.com/"]
