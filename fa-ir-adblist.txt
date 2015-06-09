@@ -282,6 +282,7 @@
 ##a[href^="http://www.worldwarpress.net"]
 ##a[href^="http://www.hamyarshop.ir"]
 ##a[href^="http://www.avazak.net/"]
+##a[href^="http://tabligh.soft98.ir/"]
 !
 !
 !
