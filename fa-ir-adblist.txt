@@ -218,7 +218,7 @@
 !
 !------------[Element Hiding Rules]/elemhide-----------!
 ##.sallar[href^="http://sallar.me/"]
-##a[href^^="http://go.ad2up.com/afu.php"]
+##a[href^="http://go.ad2up.com/afu.php"]
 ##a[href^="http://www.meghdadit.com/"]
 ##a[href^="http://kimiyagostar.com/"]
 ##a[href^*="http://computerir.com"]
@@ -245,16 +245,16 @@
 ##a[href^="http://panel.e-estekhdam.com/ad_requests/add/"]
 ##a[href^="http://panel.e-estekhdam.com/cvs/download/"]
 ##a[href^="http://www.papria.com/"]
-##a[href^*="tik8.com/"]
+##a[href^="tik8.com/"]
 ##a[href^="http://1pezeshk.com/1pezeshk-ads"]
 ##a[href^="http://www.rtl-theme.com/"]
-##a[href^^="http://averta.net/main/jobs/"]
+##a[href^="http://averta.net/main/jobs/"]
 ##a[href^="http://www.khanwars.ir/"]
 ##a[href^="http://www.mihanstore.net/in.php"] > img
 ##a[href="http://www.drzaker.com"]
 ##a[href="http://arayeshiran.com/"]
 ##a[href^="http://www.meghdadit.com/"]
-##a[href^^="http://averta.net/main/jobs/"]
+##a[href^="http://averta.net/main/jobs/"]
 ##a[href="http://zibashavim.ir"]
 ##a[href^="http://digiato.com/ads"]
 ##a[href^="http://off.takshop91.biz/product.php"]
