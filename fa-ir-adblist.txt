@@ -469,11 +469,8 @@ niksalehi.com###skinak_ads_bottom_right_125 > div:nth-of-type(1)
 niksalehi.com###skinak_ads_bottom_right_125
 niksalehi.com###skinak_ads_bottom_left_125
 p30download.com###sidebar > .sidebar-ads.widget
-p30download.com###main-content > .article-wrapper:nth-of-type(4) > .post
-p30download.com###main-content > .product-wrapper
 p30download.com###sidebar > .text-ads
 p30download.com##body > div:nth-of-type(6)
-p30download.com###main-content > .article-wrapper:nth-of-type(9) > .post
 p30download.com###main-content > .product-wrapper
 p30download.com###main-content > .ad-468:nth-of-type(2)
 p30download.com###sidebar > .sidebar-ads.widget
