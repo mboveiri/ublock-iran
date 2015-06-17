@@ -18,6 +18,7 @@
 /pop3.js
 /pop2joda.js
 /code/popup
+/pop2jodanew.js
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
 ||digiato.com/wp-content/uploads/2015/04/digiato-265-265.gif
@@ -121,13 +122,10 @@
 ||www.zoomit.ir/images/banners/93/img/270dar225.jpg
 ||winphone.ir/wp-content/uploads/2015/04/%D8%B3%D8%B1%D8%A7%DB%8C-%D8%B9%D9%84%D9%8501-1.jpg
 ||winphone.ir/wp-content/uploads/2014/09/SingleAds.jpg
-||www.sakhtafzarmag.com/images/banners/Asus.gif?ssitoken_1429687979889_
-||www.sakhtafzarmag.com/images/banners/LG-Mobile-Banner.swf
-||www.sakhtafzarmag.com/images/banners/Green-Left.gif
-||www.sakhtafzarmag.com/images/banners/liva.gif
-||www.sakhtafzarmag.com/images/banners/Computex2015.gif
-||www.sakhtafzarmag.com/images/banners/Meghdad.swf
-||www.sakhtafzarmag.com/images/banners/Green-right.gif
+||www.sakhtafzarmag.com/images/banners/*.gif
+||www.sakhtafzarmag.com/images/banners/*.swf
+
+||www.shahrsakhtafzar.com/fa/images/banners/
 ||tehrantimes.com/banner/tt.jpg
 ||tehrantimes.com/banner/link3.jpg
 ||static2.varzesh3.com/files/ads/*.*
@@ -213,6 +211,8 @@
 ||www.apktops.ir/wp-content/uploads/2014/11/king-android-2015.jpg
 ||apktops.ir/wp-content/uppic/myket.gif
 ||www.apktops.ir/wp-content/uppic/game-toolfa.jpg
+||p30download.com/tabliq/
+
 !
 !
 !
@@ -282,6 +282,8 @@
 ##a[href^="http://www.hamyarshop.ir"]
 ##a[href^="http://www.avazak.net/"]
 ##a[href^="http://tabligh.soft98.ir/"]
+##a[href="http://mtplus.mobi"]
+##a[href^="http://technolife.ir/products/"]
 !
 !
 !
@@ -395,6 +397,7 @@ www.khabaronline.ir##.wrapper > .detailPageCont > .leftCol > .leftColAdvCon:nth-
 www.khabaronline.ir##.wrapper > .detailPageCont > .advCol
 www.khabaronline.ir##.wrapper > .mainHeaderCont > .headerLogoCont > .left > .headerBannerPlaceHolder > .advCon
 www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(6) > .advCon
+www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(1)
 tebyan.net###Context > .MainMidlle.midllepanel > .insidecon > .tpnlIC.tpnl > .lpnlTIC.bannerlicon.lpnl > .bannerboxleft.window8
 www.tebyan.net###ctl07_ctl05_ctl00_pnlPartMenuArticle > .LeftPanelBox
 isna.ir##div > .master > tbody > tr > .col3 > .col:nth-of-type(3) > .advcol-OBSERVANCE
@@ -474,6 +477,7 @@ p30download.com##body > div:nth-of-type(6)
 p30download.com###main-content > .product-wrapper
 p30download.com###main-content > .ad-468:nth-of-type(2)
 p30download.com###sidebar > .sidebar-ads.widget
+p30download.com###sidebar > .text-tabliq > ul
 www.entekhab.ir##.page > .page_body > .col3 > .adv_col
 mehrnews.com###sidebar > .row > .hidden-xs.hidden-sm.col-xs-13
 mehrnews.com###sidebar > .row > .col-md-19.col-sm-32.col-xs-32 > .ads.box
@@ -566,3 +570,18 @@ www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(3)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(5) > .clearfix.entry
 www.apktops.ir##a[href^="http://getapp.giftgift.ir"]
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(6) > .clearfix.entry
+www.campec.ir##a[href^="http://clash-hack-tools.blog.ir/"]
+www.campec.ir##a[href^="http://www.rahnama.rozblog.com/"]
+www.campec.ir##a[href^="http://products.roozkala.net/"]
+www.digionline.ir##a[href^="http://exif.ir/"]
+www.digionline.ir##a[href^="http://hddcaddy.ir/"]
+www.digionline.ir##a[href^="http://sarhadco.ir/"]
+www.digionline.ir##a[href^="http://meghdadit.com/"]
+www.digionline.ir##a[href^="http://www.shidershop.com/"]
+www.digionline.ir##a[href^="http://farazrayan.com"]
+www.digionline.ir##a[href^="http://www.sabzcenter.com/"]
+www.digionline.ir##a[href^="http://www.nadercomputer.com/"]
+www.digionline.ir##a[href^="http://beatspay.ir/"]
+www.digionline.ir##a[href^="http://irssd.ir/"]
+www.i-clarified.ir##body > div:nth-of-type(1) > a[href="http://giftcard.ir"]
+www.i-clarified.ir##a[href="http://gift-id.ir"]
