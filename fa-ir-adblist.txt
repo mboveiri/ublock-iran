@@ -19,6 +19,8 @@
 /pop2joda.js
 /code/popup
 /pop2jodanew.js
+soft98.ir/java.js
+
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
 ||digiato.com/wp-content/uploads/2015/04/digiato-265-265.gif
@@ -99,6 +101,7 @@
 ||www.p30world.com/wp/wp-content/uploads/2015/02/468-aypan-60.gif
 ||img.soft98.ir/0_irprogram_2.gif
 ||img.soft98.ir/0_hostdl6.gif
+||img.soft98.ir/0_*.*
 ||www.p30world.com/nw_imgs/download-1.gif
 ||www.overclockingheroes.com/images/banner/Xp-banner-497x90.swf
 ||overclockingheroes.com/images/banner/ASRockt-497x90.swf
@@ -212,11 +215,14 @@
 ||apktops.ir/wp-content/uppic/myket.gif
 ||www.apktops.ir/wp-content/uppic/game-toolfa.jpg
 ||p30download.com/tabliq/
+||www.game2dl.com/images/*.gif
 
 !
 !
 !
 !------------[Element Hiding Rules]/elemhide-----------!
+##a[href="http://www.viberonline.com/"]
+##a[href="http://drtajbakhsh.ir/"]
 ##.sallar[href^="http://sallar.me/"]
 ##a[href^="http://go.ad2up.com/afu.php"]
 ##a[href^="http://www.meghdadit.com/"]
@@ -284,6 +290,18 @@
 ##a[href^="http://tabligh.soft98.ir/"]
 ##a[href="http://mtplus.mobi"]
 ##a[href^="http://technolife.ir/products/"]
+##a[href^="https://play.google.com/store/apps/details"]
+##a[href="http://gameshark8.com/"]
+##a[href="http://it13.ir/"]
+##a[href="http://www.ggames.ir/"]
+##a[href="http://bazibazar1.com/"]
+##a[href="http://www.gempu.com/"]
+##a[href^="http://www.kingsera.ir/"]
+##a[href="http://joingame.ir/"]
+##a[href="http://irkaspersky.com/free-giftcard"]
+##a[href="http://gogamer.ir/"]
+##a[href="http://www.Travo.ir"]
+##a[href="http://livecard.ir/"]
 !
 !
 !
@@ -339,6 +357,8 @@ soft98.ir###left > .block_f_t.block_h_1
 soft98.ir###left > .bor1
 soft98.ir###left > div:nth-of-type(1) > .bor1
 soft98.ir###container3 > div:nth-of-type(2)
+soft98.ir##a[href="http://soft98.ir/adv.html"]
+soft98.ir###container3 > .topcenteradss
 www.shahrsakhtafzar.com###rt-transition > center
 forum.p30world.com###ad_global_below_navbar
 www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(1) > .rt-block
@@ -362,6 +382,7 @@ gooya.com###Table_01 > tbody > tr:nth-of-type(1)
 gooya.com##body > table:nth-of-type(3) > tbody > tr > td:nth-of-type(8)
 www.aparat.com###box_recoms > .hidden_s0.notShowAds
 www.aparat.com###videoOne_player > .player_panel.hidden_s0.clearfix
+www.aparat.com###videoOne_player > .player_panel.\/\*hidden_s1\*\/.clearfix
 farsnews.com##body > .container:nth-of-type(5) > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.hidden-sm.col-md-5.adscolumn > .advertisement
 farsnews.com##body > .container:nth-of-type(5) > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .pull-right.col-lg-7.col-sm-12.col-md-7.leftmainnewspane > p:nth-of-type(1)
 persianblog.ir###ads
@@ -547,6 +568,12 @@ www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
 1pezeshk.com##.main-wrapper > .columns.container > .columns__article.columns__column--major.columns__column > .widget-text.textwidget
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(4) > .body > .sidebar__text-list > .sidebar__box:nth-of-type(4)
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--double.sidebar
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > p:nth-of-type(1)
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > p
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(5) > .body > .sidebar__text-list
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(8) > .body > .sidebar__text-list
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(8)
+1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(5) > header
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div:nth-of-type(2)
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div > div
 www.zoomit.ir##.banneritem
@@ -585,3 +612,12 @@ www.digionline.ir##a[href^="http://beatspay.ir/"]
 www.digionline.ir##a[href^="http://irssd.ir/"]
 www.i-clarified.ir##body > div:nth-of-type(1) > a[href="http://giftcard.ir"]
 www.i-clarified.ir##a[href="http://gift-id.ir"]
+gamefa.com###HeaderAdBox > a[href="http://Gembox.in/"]
+gamefa.com###MainHugeAdBlock > p:nth-of-type(1) > a[href="http://goo.gl/udj0Cj"]
+gamefa.com###MainHugeAdBlock > p:nth-of-type(3) > a[href="http://www.gameplayiran1.com/"]
+gamefa.com###ad_bb1 > p
+gamefa.com###ad_bb1
+gamefa.com###LeftSide > .SideBarAdBlock
+gamefa.com###ad_bb2
+gamefa.com##.adword-main
+www.game2dl.com###asiatech
