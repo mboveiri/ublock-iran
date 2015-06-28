@@ -573,6 +573,8 @@ www.doostiha.ir###page-body > .page-body > p:nth-of-type(13)
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(8) > .body > .sidebar__text-list
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(8)
 1pezeshk.com##.main-wrapper > .columns.container > .columns__column--minor.columns__column > .sidebar--major.sidebar > .sidebar__box:nth-of-type(5) > header
+1pezeshk.com##a[href^="http://www.icymonkey.com/"]
+1pezeshk.com##a[href="http://www.samsung.com/iran/consumer/mobile-devices/smartphones/galaxy-s/SM-G925FZDATHR/"]
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div:nth-of-type(2)
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div > div
 www.zoomit.ir##.banneritem
