@@ -20,6 +20,7 @@
 /code/popup
 /pop2jodanew.js
 soft98.ir/java.js
+http://engine.adfinder.io/pro.ashx
 
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
@@ -301,6 +302,7 @@ soft98.ir/java.js
 ##a[href="http://gogamer.ir/"]
 ##a[href="http://www.Travo.ir"]
 ##a[href="http://livecard.ir/"]
+##a[href^="http://engine.adfinder.io/"]
 !
 !
 !
