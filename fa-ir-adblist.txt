@@ -290,7 +290,6 @@ soft98.ir/java.js
 ##a[href^="http://tabligh.soft98.ir/"]
 ##a[href="http://mtplus.mobi"]
 ##a[href^="http://technolife.ir/products/"]
-##a[href^="https://play.google.com/store/apps/details"]
 ##a[href="http://gameshark8.com/"]
 ##a[href="http://it13.ir/"]
 ##a[href="http://www.ggames.ir/"]
