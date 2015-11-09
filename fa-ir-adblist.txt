@@ -686,3 +686,6 @@ download.ir##.kadr-ads
 irato.ir##a[href="http://irato.ir/fa/pages/1/"]
 tik.ir##a[href^="http://tik.ir/fa/ads"]
 trainbit.com###content > .container > .row:nth-of-type(4) > .columns.seven
+www.varzesh3.com##.blank.ad:nth-of-type(1)
+www.varzesh3.com##.blank.ad:nth-of-type(1)
+www.varzesh3.com##.blank.ad
