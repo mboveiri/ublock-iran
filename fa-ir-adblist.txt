@@ -19,7 +19,7 @@
 /pop2joda.js
 /code/popup
 /pop2jodanew.js
-||soft98.ir$script,first-party
+||www.soft98.ir$script,first-party
 
 http://engine.adfinder.io/pro.ashx
 
