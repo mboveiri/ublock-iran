@@ -61,7 +61,7 @@ uBlock (AdBlock+) filter for iranian websites.
 
 #### <p align="center">.قدم سوم : اضافه کردن این فیلتر
 
-[**subscribe**](https://easylist-downloads.adblockplus.org/adwarefilters.txt?location=https://easylist-downloads.adblockplus.org/adwarefilters.txt&title=Adware%20filters)
+># <p align="center"> [**Subscribe**](https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt?location=https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt&title=لیست ایران - Iran UblockList)+
 
 <h1 p align="right">: چشم انداز</h1>
 ##
