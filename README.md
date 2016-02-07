@@ -60,7 +60,7 @@ uBlock (AdBlock+) filter for iranian websites.
 <p align="center"> ![](https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/easylist.png)
 
 #### <p align="center">.قدم سوم : اضافه کردن این فیلتر
-#<p align="center"> [ .کلیک کنید ](https://github.com/gorhill/uBlock/releases)+
+</sub>#<p align="center"> [ .کلیک کنید ](https://github.com/gorhill/uBlock/releases)+
 
 <h1 p align="right">: چشم انداز</h1>
 ##
