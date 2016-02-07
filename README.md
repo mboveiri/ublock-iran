@@ -52,7 +52,7 @@ uBlock (AdBlock+) filter for iranian websites.
 <p align="center"> <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/ulogo.png"
       height="20"
       width="20">
-</sub> [uBlock Origin](https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt?location=https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt&title=لیست ایران - Iran UblockList)+
+</sub> [uBlock Origin](https://github.com/gorhill/uBlock/releases)+
 
 
 #### <p align="center">.به افزونه EasyList  قدم دوم : اضافه کردن فیلتر
@@ -60,7 +60,7 @@ uBlock (AdBlock+) filter for iranian websites.
 <p align="center"> ![](https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/easylist.png)
 
 #### <p align="center">.قدم سوم : اضافه کردن این فیلتر
->#<p align="center"> [ .کلیک کنید ](https://github.com/gorhill/uBlock/releases)+
+>#<p align="center"> [ .کلیک کنید ](https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt?location=https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt&title=لیست ایران - Iran UblockList)+
 
 <h1 p align="right">: چشم انداز</h1>
 ##
