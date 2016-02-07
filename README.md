@@ -60,7 +60,7 @@ uBlock (AdBlock+) filter for iranian websites.
 <p align="center"> ![](https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/easylist.png)
 
 #### <p align="center">.قدم سوم : اضافه کردن این فیلتر
-[**subscribe**](https://www.fanboy.co.nz/fanboy-antifonts.txt?location=https://www.fanboy.co.nz/fanboy-antifonts.txt&title=Fanboy's Anti-thirdparty Fonts)
+https://www.fanboy.co.nz/fanboy-antifonts.txt : [**subscribe**](https://www.fanboy.co.nz/fanboy-antifonts.txt?location=https://www.fanboy.co.nz/fanboy-antifonts.txt&title=Fanboy's Anti-thirdparty Fonts)
 
 <h1 p align="right">: چشم انداز</h1>
 ##
