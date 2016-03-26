@@ -373,7 +373,7 @@ forum.persiantools.com##IMG[ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
 soft98.ir###container3 > .centp:nth-of-type(1)
 soft98.ir###left > div:nth-of-type(1) > .block_asli
 soft98.ir###left > div:nth-of-type(1) > .block_f_t.block_h_1
-soft98.ir###left > .block_asli
+
 soft98.ir###left > .block_f_t.block_h_1
 soft98.ir###left > .bor1
 soft98.ir###left > div:nth-of-type(1) > .bor1
