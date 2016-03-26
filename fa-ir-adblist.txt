@@ -394,8 +394,10 @@ www.zoomit.ir###rt-afterpost > div > .deepest.mod-box.clearfix.bannergroup
 www.zoomit.ir###rt-afterpost
 www.zoomit.ir###Mod228 > .module-inner > .module-ct > .style-plain.bannergroup > .banneritem:nth-of-type(2)
 winphone.ir###banner-2
-soft98.ir###dle-content > .block_asli
-soft98.ir###dle-content > .block_f_t.block_h_1
+
+
+
+
 soft98.ir###right > aside > .cent.block_asli:nth-of-type(4)
 soft98.ir###right > aside > .block_f.block_h_1:nth-of-type(2)
 soft98.ir###right > aside > .bor1:nth-of-type(2)
