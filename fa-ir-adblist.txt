@@ -363,14 +363,7 @@ teh-music26.asia###ad54 + * + * + * + * + * TD[bgcolor="#131313"]
 ##[href="http://esam.ir/"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'esam.ir', '/']);"] > IMG[title="شرکت توسعه فناوری اطلاعات سیستم های تجارت ویرا سام"]
 and-roid.ir##[href="http://netbarg.com/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'netbarg.com', '/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75']);"] > IMG
 <<<<<<< HEAD
-soft98.ir###container3 > .centp:nth-of-type(1)
-soft98.ir###left > div:nth-of-type(1) > .block_asli
-soft98.ir###left > div:nth-of-type(1) > .block_f_t.block_h_1
-soft98.ir###left > .block_asli
-soft98.ir###left > .block_f_t.block_h_1
-soft98.ir###left > .bor1
-soft98.ir###left > div:nth-of-type(1) > .bor1
-soft98.ir###container3 > div:nth-of-type(2)
+
 =======
 forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1428831453694_"]
 forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][alt="rond.ir"][ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
@@ -405,10 +398,7 @@ winphone.ir###banner-2
 
 
 
-soft98.ir###right > aside > .cent.block_asli:nth-of-type(4)
-soft98.ir###right > aside > .block_f.block_h_1:nth-of-type(2)
-soft98.ir###right > aside > .bor1:nth-of-type(2)
-soft98.ir###dle-content > article > .block_asli > .text > .centp
+
 www.havairan.com###bar
 gooya.com###Table_01 > tbody > tr:nth-of-type(1)
 gooya.com##body > table:nth-of-type(3) > tbody > tr > td:nth-of-type(8)
