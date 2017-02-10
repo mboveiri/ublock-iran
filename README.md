@@ -46,7 +46,7 @@ uBlock (AdBlock+) filter for iranian websites.
 ##
 
 
-<h1 align="center">[<button  style="background-color:#ffee58; border:2px; border-style: dashed; border-color:#607d8b; width:20em; height:5em;"><h3>!.مشترک شوید</h3></button>](abp:subscribe?location=https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt&title=Iran-Ublock-List (اشتراک))  
+<h1 align="center"><button  style="background-color:#ffee58; border:2px; border-style: dashed; border-color:#607d8b; width:20em; height:5em;"><h3>!.مشترک شوید</h3></button>  
 
 
 ##
