@@ -20,12 +20,9 @@
 /code/popup
 /pop2jodanew.js
 ||www.soft98.ir$script,first-party
-
 http://engine.adfinder.io/pro.ashx
-
 !----------------------- Filtres génériques -----------------!
 ! [Ad Blocking Rules]/blocking
-
 ||ivahid.com/pack-baner/
 ||itiran.com/sites/default/files/*-*banner*.jpg
 ||trainbit.com/UI/Img/*.gif
@@ -237,7 +234,6 @@ http://engine.adfinder.io/pro.ashx
 ||www.game2dl.com/images/*.gif
 ||mzcdn.ir/Ads/digiato.html
 ||www.campec.ir/js/site.js$script,domain=www.campec.ir
-
 !
 !
 !
@@ -355,7 +351,6 @@ farskids329.com##.banners > .textwidget
 ##IMG[src*="http://dlteh.asia/Pic/Block/ADS/User%20Ads/*"]
 persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/pixel2.jpg"]
 forum.persiantools.com##A[href="http://ads.persiantools.com"]
-
 google.com###tads
 ###ad54 + * + * + * + * > P[style="padding-bottom:10px"]
 teh-music26.asia###ad54 + * + * + * + * + * TD[bgcolor="#131313"]
@@ -363,20 +358,11 @@ teh-music26.asia###ad54 + * + * + * + * + * TD[bgcolor="#131313"]
 ##[href="http://esam.ir/"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'esam.ir', '/']);"] > IMG[title="شرکت توسعه فناوری اطلاعات سیستم های تجارت ویرا سام"]
 and-roid.ir##[href="http://netbarg.com/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'netbarg.com', '/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75']);"] > IMG
 <<<<<<< HEAD
-
 =======
 forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1428831453694_"]
 forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"][alt="rond.ir"][ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
 forum.persiantools.com##IMG[alt="rond.ir"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1429172542447_"]
 forum.persiantools.com##IMG[ilo-full-src="http://fbm.ptcdn.ir/banners/rond.jpg"]
-
-
-
-
-
-
-
-
 >>>>>>> origin/master
 soft98.ir##a[href="http://soft98.ir/adv.html"]
 soft98.ir###container3 > .topcenteradss
@@ -394,11 +380,6 @@ www.zoomit.ir###rt-afterpost > div > .deepest.mod-box.clearfix.bannergroup
 www.zoomit.ir###rt-afterpost
 www.zoomit.ir###Mod228 > .module-inner > .module-ct > .style-plain.bannergroup > .banneritem:nth-of-type(2)
 winphone.ir###banner-2
-
-
-
-
-
 www.havairan.com###bar
 gooya.com###Table_01 > tbody > tr:nth-of-type(1)
 gooya.com##body > table:nth-of-type(3) > tbody > tr > td:nth-of-type(8)
@@ -494,7 +475,6 @@ www.downloadha.com###main > .main-container > .maincontent > font > font > font 
 www.downloadha.com###main > .main-container > .maincontent > font > font > .post:nth-of-type(3) > .arrow
 www.downloadha.com###main > .rightsidebar > .rightsc > .adsright.rightsidebarc > center
 www.downloadha.com###main > .rightsidebar > .rightsc > .adsright.rightsidebarc > .title
-
 fararu.com##.txt_adv_content
 fararu.com##.page > .news_body > .news_col3 > .txt_adv_container
 fararu.com##.page > .page_body > .first_row > .first_row_l > .first_row_l_b > .first_row_l_col2 > .txt_adv_container
@@ -688,3 +668,112 @@ trainbit.com###content > .container > .row:nth-of-type(4) > .columns.seven
 www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad
+||lioncomputer.ir/uppic/images/h8j5ws6oiidzax5wq1as.jpgwww.varzesh3.com##.blank.ad:nth-of-type(1)
+www.varzesh3.com##.blank.ad:nth-of-type(1)www.varzesh3.com##.blank.ad||55online.ir/baner-55online
+||forum.lioncomputer.ir/TEL.jpg
+vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
+vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
+vatandownload.com##.ads:nth-of-type(1)
+||download.ir/*.gif
+download.ir###hdd_ads-2
+||www.apktops.ir/wp-content/uppic/*.gif
+||www.apktops.ir/wp-content/uppic/*.*
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(4)
+www.apktops.ir##a[href^="http://ad.apps.fm"]
+www.apktops.ir##a[href^="http://limoosoft.com/"]
+||apktops.ir/wp-content/uppic/*.jpg
+www.apktops.ir##.fix.clearfix:nth-of-type(4)
+www.apktops.ir##.fix.clearfix
+download.ir##.m12.s12.l12.col.content-top-ads-box
+soft98.ir###no1block
+rouzegar.com##a[href^="http://www.takshop91.biz/"]
+||rouzegar.com/wp-content/uploads/2015/09/*.gif
+rouzegar.com##a[href^="http://www.shixon.com/"]
+||www.farsroid.com/file$first-party
+www.farsroid.com##.row.post-sabets:nth-of-type(5)
+www.farsroid.com##.row.single-sabet.post-sabets
+www.farsroid.com##.row.post-sabets
+www.farsroid.com##.col.site-statistics
+www.farsmovie.ir##img[alt^="خرید جم"]
+www.farsmovie.ir##a[href^="http://clash"]
+www.farsmovie.ir##.wrapper > a[href="http://love2music.com"] > img[alt="سایت موزیک"]
+www.farsmovie.ir##a[href^="http://toppopup"]
+www.farsmovie.ir##a[href^="http://www.yasell.biz/"]
+www.farsmovie.ir##a[href="http://www.nabzeroz.com"]
+||www.farsmovie.ir$script,first-party
+||www.farsmovie.ir$inline-script,first-party
+www.pelanhaa.ir##a[href^="http://gem."]
+rouzegar.com##a[href="http://www.donyayemark.com/"]
+rouzegar.com##a[href^="http://kharid"]
+rouzegar.com##a[href="http://www.kasbdaramad.com/"]
+www.android30t.com##a[href^="http://iranclash"]
+||www.android30t.com/wp-content/themes/android30t/files$script,first-party
+@@||api.solvemedia.com$script
+@@||api.solvemedia.com
+||www.tabnak.ir/files/adv//
+www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
+||cdn.yjc.ir/files/adv/*_*.*
+||mihandownload.com/wp-content/uploads/*.gif
+mihandownload.com##.center-ads.well
+mihandownload.com##.widget-text.textwidget:nth-of-type(3)
+mihandownload.com##.well:nth-of-type(4)
+mihandownload.com##.well:nth-of-type(5)
+||www.ad.adtube.ir/
+www.campec.ir##img[alt="ads"]
+www.campec.ir##img[alt="ADS"]
+www.campec.ir##a[href^="http://off.yasell.biz/"]
+||www.campec.ir$inline-script,first-party
+www.campec.ir###center > .post:nth-of-type(1) > .block
+www.campec.ir###center > .post:nth-of-type(2) > .block
+s5.picofile.com###ads
+s5.picofile.com###fileproperties > tbody > tr:nth-of-type(6) > td
+soft98.ir##.banners
+soft98.ir##a[href="http://soft98.ir/payment.html"]
+||www.sakhtafzarmag.com/images/banners/*.jpg
+digiato.com##body > .paged.guttered.digi-container:nth-of-type(3) > .clearfix.white.paper > .home-latest.no-bg.home-sec > .sticky-side.agahi-spots.home-col.columns.show-for-medium.medium-4.large-2
+||www.varzesh3.com/static/img/tazeyab-ad.gif
+||www.p30day.com/images/banners/*.*$image
+||www.p30day.com/wp-content/themes/p30dayv7.1/data/images/topadsbg.jpg$image
+www.p30day.com##.ads
+www.p30day.com##.banners
+www.p30day.com###anetwork-964294
+www.p30day.com###sidebar > .sidebarSkull > .right_contentBox > article:nth-of-type(2)
+www.p30day.com###before_post > .adsblockpop.static_posts > .scroller
+www.varzesh3.com###main > .no-iframe-ad
+www.fardanews.com##a[href^="http://fardanews.com/fa/ads/"]
+||www.fardanews.com/files/adv/$image
+soft98.ir###left > div:nth-of-type(1)
+||process.nextads.ir/$subdocument
+||nex1network.com/$subdocument
+||apanet.net/index2.php$subdocument
+gamefa.com###MainHugeAdBlock
+gamefa.com###MainHugeAdBlock2
+gamefa.com###SingleAdBlock
+||cpm.adng.ir/$subdocument
+www.namasha.com###related-videos > .panel-default.panel > .panel-body > .row.visible-md.visible-lg
+www.tgju.org##img[src^="images/advertisement/"]
+www.tgju.org###advertise-place-square-2
+www.tgju.org###advertise-place-square-3
+www.tgju.org###advertise-place-1
+forum.lioncomputer.ir###ips_Posts > div:nth-of-type(2) > a[href="http://goo.gl/j2u23e"] > img[src="http://lioncomputer.ir/uppic/images/4asretem5i30qnwdzy23.jpg"]
+www.zoomit.ir##.text-adv-box.panel-default.panel
+||clix.ir/$subdocument
+salamdl.ir###next1-231
+||s1.dpb.adnegah.net/$subdocument
+||forum.lioncomputer.ir/uploads/monthly_2016_10/lion-computer-468-dr-60.gif.12e4dada3fbdf84b278db0f8e84a26ca.gif$image
+||forum.lioncomputer.ir/uploads/monthly_2016_10/tiftafe9uithgqogppx.gif.efca8c8697f3c8aa97f5024bddc9ea52.gif$image
+||forum.lioncomputer.ir/uploads/monthly_2016_10/tiftafe9uithgqogppx.gif.efca8c8697f3c8aa97f5024bddc9ea52.gif$image
+||fbm.persiantools.net/banners/$image
+||m.adnegah.net/cpx/$subdocument
+||n.adnegah.net/$subdocument
+s1.picofile.com##iframe[src^="http://www.namasha.com/vitrin"]
+||ad.utop.ir/b/$image
+||pakdailymotion.com/news/fraz.php$subdocument
+||tms*.tvu.ac.ir:*/Student/organlogo.jpg$image
+www.aparat.com##.is-package-autocharge-mobile.clearfix.smartbanner
+||s3.amazonaws.com/wl-ex-cdn/1300/ui/v1/0/8/main.html$subdocument
+katcr.co##a[href^="https://go.seed4.me/join.php"]
+www.blackboxrepack.com##a[href^="http://www.steepto.com/ghits/"]
+||smartbanners.ir/$image
+www.khabaronline.ir##.advContainer.advCon
+www.khabaronline.ir##.advContainer.margin-b-md.row
