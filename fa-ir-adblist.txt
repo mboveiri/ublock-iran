@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! لیست مسدود کننده ی تبلیغات وب سایتهای ایرانی
 ! uBlock (AdBlock+) filter for iranian websites
-! Title: fa-ir-List
+! Title: Iran-Ublock-List
 ! Download : https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt
 ! Licence : http://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/mboveiri/Iran-uBlocklist
