@@ -52,10 +52,18 @@ uBlock (AdBlock+) filter for iranian websites.
 <p align="center"> <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/ulogo.png"
       height="20"
       width="20">
-</sub> [uBlock Origin](abp:subscribe?location=https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt&title=AakList)+
+</sub> [uBlock Origin](https://github.com/gorhill/uBlock/releases)+
 
 
+#### <p align="center">.به افزونه EasyList  قدم دوم : اضافه کردن فیلتر
+> #### <p align="center">را تیک دار کنید EasyList به تنظیمات افزونه رفته و از تب  ![](https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/tab3.png)     فیلتر
+<p align="center"> ![](https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/easylist.png)
 
+#### <p align="center">.قدم سوم : اضافه کردن این فیلتر
+> #### <p align="center">.کپی کنید Custom  آدرس زیر را در قسمت  
+>
+><h5 align="center"> `https://github.com/mboveiri/Iran-uBlocklist/raw/master/fa-ir-adblist.txt`
+><p align="center">.را کلیک کنید Apply changes  را تیک دار کنید و در آخر  fa-ir List‎ را کلیک کنید سپس فیلتر اضافه شده، با نام  Parse دکمه ی
 <p align="center"> <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/custom.png">
 
 <h1 p align="right">: چشم انداز</h1>
