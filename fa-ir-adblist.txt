@@ -780,7 +780,5 @@ www.khabaronline.ir##.advContainer.margin-b-md.row
 ||p30download.com/agahi/plan/ci.php
 ||p30download.com/agahi/*.gif
 p30download.com##.text-tabliq
-||p30download.com/agahi/plan/a1i.php
-||p30download.com/agahi/plan/g1i.php
-||p30download.com/agahi/plan/dd2i.php
+||p30download.com/agahi/plan/*.php
 p30download.com##span[style="width: 728px; height: 90px; float:right;border: 1px solid rgb(170, 170, 170);margin: 0px 3px 0px 0px;"]
