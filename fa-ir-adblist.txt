@@ -339,8 +339,8 @@ s1.picofile.com##OBJECT[width="468"]
 s1.picofile.com###ads
 picofile.com##IMG[src="http://ad.utop.ir/b/takhfifan-pico-233.gif"]
 picofile.com##IMG[style="width:468px; height=60px;"][src="http://ad.utop.ir/b/135229393746860-189.gif"]
-picofile.com##IMG[style="width:468px; height=60px;"][src*="http://ad.utop.ir/b/*.gif"]
-s1.picofile.com##IMG[src*="http://ad.utop.ir/banners/*.*"]
+picofile.com##IMG[style="width:468px; height=60px;"][src="http://ad.utop.ir/b/*.gif"]
+s1.picofile.com##IMG[src="http://ad.utop.ir/banners/*.*"]
 mediafire.com##.dlPromo1Content.dlPromoContent
 moviecenter15.org##SPAN[style="margin-top:0px"]
 ##IMG[src="http://s3.picofile.com/file/7722034187/parscom.gif"]
@@ -348,7 +348,7 @@ moviecenter15.org##SPAN[style="margin-top:0px"]
 ##[href="http://beshkan11.biz/"] > IMG[src="http://s2.picofile.com/file/7709492903/fxomkxxk9jmcnidjhaw8.gif"]
 farskids329.com##.ads_single_top + .ads_single_body
 farskids329.com##.banners > .textwidget
-##IMG[src*="http://dlteh.asia/Pic/Block/ADS/User%20Ads/*"]
+##IMG[src="http://dlteh.asia/Pic/Block/ADS/User%20Ads/*"]
 persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/pixel2.jpg"]
 forum.persiantools.com##A[href="http://ads.persiantools.com"]
 google.com###tads
@@ -777,3 +777,10 @@ www.blackboxrepack.com##a[href^="http://www.steepto.com/ghits/"]
 ||smartbanners.ir/$image
 www.khabaronline.ir##.advContainer.advCon
 www.khabaronline.ir##.advContainer.margin-b-md.row
+||p30download.com/agahi/plan/ci.php
+||p30download.com/agahi/*.gif
+p30download.com##.text-tabliq
+||p30download.com/agahi/plan/a1i.php
+||p30download.com/agahi/plan/g1i.php
+||p30download.com/agahi/plan/dd2i.php
+p30download.com##span[style="width: 728px; height: 90px; float:right;border: 1px solid rgb(170, 170, 170);margin: 0px 3px 0px 0px;"]
