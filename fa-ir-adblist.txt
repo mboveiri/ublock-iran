@@ -739,8 +739,11 @@ www.khabaronline.ir##.advContainer.margin-b-md.row
 www.khabaronline.ir##.wrapper > .detailPageCont > .advCol
 www.khabaronline.ir##.wrapper > .detailPageCont > .leftCol > .leftColAdvCon:nth-of-type(1) > .advCon
 www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(1)
-www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(6) > .advConwww.khabaronline.ir##.wrapper > .homeMainContainer > .advCol
-www.khabaronline.ir##.wrapper > .homeMainContainer > .leftCol > .advConwww.khabaronline.ir##.wrapper > .mainHeaderCont > .headerLogoCont > .left > .headerBannerPlaceHolder > .advConwww.mobile.ir###bottombanner
+www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nth-of-type(6) > .advCon
+www.khabaronline.ir##.wrapper > .homeMainContainer > .advCol
+www.khabaronline.ir##.wrapper > .homeMainContainer > .leftCol > .advCon
+www.khabaronline.ir##.wrapper > .mainHeaderCont > .headerLogoCont > .left > .headerBannerPlaceHolder > .advCon
+www.mobile.ir###bottombanner
 www.mobile.ir###specialbanner
 www.mobile.ir###topmenu > .banner
 www.namasha.com###related-videos > .panel-default.panel > .panel-body > .row.visible-md.visible-lg
@@ -840,6 +843,12 @@ salamdl.biz##.sticky
 salamdl.biz##a[href^="http://www.clicksgear.com/watch"]
 salamdl.biz##center > .ADTUBE
 salamdl.ir###next1-231
+www.shatelland.com##div.adds-namava:nth-of-type(4)
+www.shatelland.com##div.adds-namava:nth-of-type(5)
+www.shatelland.com##[href*="://ck.yektanet.com/b/click"]
+||cdn.yektanet.com/$subdocument
+||soft98.ir^$inline-script,first-party
+soft98.ir#$#body.d-none{ display: block !important; }
 soft98.ir##.text-center.card-body
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
@@ -898,6 +907,7 @@ www.tgju.org###advertise-place-square-3
 www.tgju.org##img[src^="images/advertisement/"]
 www.varzesh3.com###main > .no-iframe-ad
 www.varzesh3.com##.blank.ad:nth-of-type(1)
-www.varzesh3.com##.blank.ad:nth-of-type(1)www.varzesh3.com##.blank.ad
+www.varzesh3.com##.blank.ad:nth-of-type(1)
+www.varzesh3.com##.blank.ad
 www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
 www.zoomit.ir##.text-adv-box.panel-default.panel
