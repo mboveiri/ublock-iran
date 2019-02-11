@@ -846,10 +846,10 @@ salamdl.ir###next1-231
 www.shatelland.com##div.adds-namava:nth-of-type(4)
 www.shatelland.com##div.adds-namava:nth-of-type(5)
 www.shatelland.com##[href*="://ck.yektanet.com/b/click"]
-||cdn.yektanet.com/$subdocument
-||soft98.ir^$inline-script,first-party
-soft98.ir#$#body.d-none{ display: block !important; }
-soft98.ir##.text-center.card-body
+||cdn.yektanet.com/$subdocument||soft98.ir^$inline-script,first-party
+soft98.ir#$#.d-none{ display: block !important; }
+||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
+||soft98.ir/sp-push-worker.js$script,first-party
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
 vatandownload.com##.ads:nth-of-type(1)
