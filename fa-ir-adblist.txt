@@ -852,7 +852,8 @@ soft98.ir#$#.d-none{ display: block !important; }
 ||soft98.ir/sp-push-worker.js$script,first-party
 ||soft98.ir^$inline-script,first-party
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
-
+soft98.ir#$#.tab-content > * > * { display: block !important }
+soft98.ir#$#.tab-content > * { display: block !important }
 soft98.ir#$#.d-none{ display: block !important; }
 soft98.ir#$#.d-js-block{ display: block !important; }
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
