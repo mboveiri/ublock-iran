@@ -1,5 +1,5 @@
 
-# Iran Ad-block list
+# Iran Ad blocking rules
 
 the uBlock | AdBlock+ filter list for iranian websites.
 
