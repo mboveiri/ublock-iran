@@ -1,9 +1,9 @@
 
-# Iran-uBlocklist
+# Iran Ad-block list
 
-uBlock (AdBlock+) filter for iranian websites.
+the uBlock | AdBlock+ filter list for iranian websites.
 
->(Alpha)
+>(Stable)
 
   
 
@@ -31,9 +31,6 @@ width="20">  [EasyList](https://easylist.adblockplus.org/en/)
 
   
 
-<p align="right">وضعیت : آلفا
-
-  
   
 
 <h1 align="right">: حمایت </h1>
