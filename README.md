@@ -11,17 +11,13 @@ the uBlock | AdBlock+ filter list for iranian websites.
 
   
 
-<b><p  align="right">.استفاده کنید Easylist و فیلتر uBlock0 برای استفاده از این فیلتر به طور حتم باید از</p>
+<b><p  align="right">.استفاده کنید uBlock برای استفاده از این فیلتر به طور حتم باید از</p>
 
   
 
 *  <img src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/ulogo.png" height="20" 
 width="20"></sub>  [uBlock Origin](https://github.com/gorhill/uBlock/releases)
-
-*  <img src="https://raw.githubusercontent.com/mboveiri/Iran-uBlocklist/master/img/list.png" height="20"
-width="20">  [EasyList](https://easylist.adblockplus.org/en/)
-
-  
+ 
 
 <h1  align="right">: درباره</h1>
 
