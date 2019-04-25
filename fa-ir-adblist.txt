@@ -860,6 +860,12 @@ soft98.ir#$#.tab-pane > * > * { display: block !important }
 soft98.ir#$#.tab-pane > * { display: block !important }
 soft98.ir#$#div[class^="tab"] * { display : block !important }
 soft98.ir##div[style*="display:none"]:style(display: block !important)
+soft98.ir##.adt.container
+soft98.ir##.adx-link
+soft98.ir###sidebar > .bg-light.card.d-block
+soft98.ir###sidebar > hr:nth-of-type(1)
+soft98.ir###sidebar_sticky > .card.bg-light.d-block
+soft98.ir##.adx__inner
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
 vatandownload.com##.ads:nth-of-type(1)
