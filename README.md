@@ -110,7 +110,7 @@ Mehdi Boveiri (مهدی بویری)
 
 *  <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/tw.png" width="20"> [@mboveiri](https://twitter.com/mboveiri)
 
-*  <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/linkedin.png" width="20"> [Kian Boveiri](http://ir.linkedin.com/in/mboveiri)
+*  <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/linkedin.png" width="20"> [Mehdi Boveiri](http://ir.linkedin.com/in/mboveiri)
 
 *  <img  src="https://github.com/mboveiri/Iran-uBlocklist/raw/master/img/mail.png" width="20"> mehdi.boveiri@gmail.com
 
