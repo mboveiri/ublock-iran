@@ -88,14 +88,6 @@ width="20"></sub>  [uBlock Origin](https://github.com/gorhill/uBlock/releases)
 
   
 
-<h1  p  align="right">: چشم انداز</h1>
-
-  
-
->  <p  align="right">uBlock Origin اضافه شدن به فیلترهای دیگر زبانها در
-
-<p  align="right">تمرکز بیشتر بر وبلاگهای ایرانی
-
   
 
 <h1  p  align="right"> : توسعه دهندگان</h1>
