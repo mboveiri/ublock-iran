@@ -928,6 +928,4 @@ www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad
 www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
 www.zoomit.ir##.text-adv-box.panel-default.panel
-
-soft98.ir##div[class*="d-js3-bloc1k dp-1c"]:style(display: block !important)
 soft98.ir##div[class*="d-js3-bloc1k dp-1c"]:style(display: block !important)
