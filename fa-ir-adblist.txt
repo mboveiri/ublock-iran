@@ -982,3 +982,6 @@ soft98.ir##div[class*=d2c]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo3ck]:style(display: block !important)
 soft98.ir##div[class*=dk3c]:style(display: block !important)
 
+soft98.ir##div[class*=d-js3-blo4ck]:style(display: block !important)
+soft98.ir##div[class*=dk4c]:style(display: block !important)
+
