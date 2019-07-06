@@ -989,3 +989,7 @@ soft98.ir##div[class*=rk]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo5ck]:style(display: block !important)
 soft98.ir##div[class*=dk5c]:style(display: block !important)
 
+soft98.ir##div[class*=r11k]:style(display: block !important)
+soft98.ir##div[class*=k11k]:style(display: block !important)
+soft98.ir##div[class*=g11n]:style(display: block !important)
+
