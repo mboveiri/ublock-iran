@@ -994,3 +994,10 @@ soft98.ir##div[class*=پ]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo7ck]:style(display: block !important)
 soft98.ir##div[class*=dk7c]:style(display: block !important)
 
+soft98.ir##div[class*=kzzjk111111111111122211111111]:style(display: block !important)
+soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkkkkkkkkkkkk]:style(display: block !important)
+soft98.ir##div[class*=ghjjj2222222222222kk]:style(display: block !important)
+soft98.ir##div[class*=ytttttttttttttttttttttyty]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo8ck]:style(display: block !important)
+soft98.ir##div[class*=dk8c]:style(display: block !important)
+
