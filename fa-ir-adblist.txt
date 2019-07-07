@@ -1096,3 +1096,4 @@ soft98.ir##div[class*=fdf5fff]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo16nk]:style(display: block !important)
 soft98.ir##div[class*=dnk16c]:style(display: block !important)
 
+
