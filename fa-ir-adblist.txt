@@ -1167,3 +1167,6 @@ soft98.ir##div[class*=ttrtety]:style(display: block !important)
 soft98.ir##div[class*=ywwwww]:style(display: block !important)
 soft98.ir##div[class*=eereryer]:style(display: block !important)
 
+soft98.ir##div[class*=d-js3-b2o7nk]:style(display: block !important)
+soft98.ir##div[class*=dnk7c]:style(display: block !important)
+
