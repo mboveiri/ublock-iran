@@ -1116,3 +1116,17 @@ www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad
 www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
 www.zoomit.ir##.text-adv-box.panel-default.panel
+soft98.ir##div[class*=kujo8ooook]:style(display: block !important)
+soft98.ir##div[class*=zzzz8xxxxx]:style(display: block !important)
+soft98.ir##div[class*=llkk8hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=xxx8z]:style(display: block !important)
+soft98.ir##div[class*=uuu8mmmm]:style(display: block !important)
+soft98.ir##div[class*=pp8kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=uuu8kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uy8jjjjj]:style(display: block !important)
+soft98.ir##div[class*=fdd8df]:style(display: block !important)
+soft98.ir##div[class*=fdfdf8fff]:style(display: block !important)
+soft98.ir##div[class*=fdf8fff]:style(display: block !important)
+soft98.ir##div[class*=p-js3-blo3nk]:style(display: block !important)
+soft98.ir##div[class*=dnk3c]:style(display: block !important)
+
