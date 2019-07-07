@@ -430,19 +430,17 @@ soft98.ir##.text-center.card-body
 1pezeshk.com##a[href="http://1pezeshk.com/1pezeshk-ads"]
 1pezeshk.com##a[href="http://www.samsung.com/iran/consumer/mobile-devices/smartphones/galaxy-s/SM-G925FZDATHR/"]
 1pezeshk.com##a[href^="http://www.icymonkey.com/"]
+55online.ir##[src^="/uploads/ads/"]
 90tv.ir###navad > .container > .row:nth-of-type(2) > .col-md-4.col-xs-12 > .ads-boxes-wrapper.widget-clean.widget
 90tv.ir###navad > .container > .row:nth-of-type(2) > .right.col-md-8.col-xs-12 > .ads-boxes-wrapper.widgets:nth-of-type(4)
 90tv.ir###navad > .container > .row:nth-of-type(2) > .right.col-md-8.col-xs-12 > .splitter
 90tv.ir##header > .header-top > .container > .row > .text-left.col-sx-12.col-md-6 > .wcup-noborder.ads-boxes-wrapper
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 @@||api.digikala.com/api/AdService/GetPageAds?pageId=1$xmlhttprequest,domain=www.digikala.com
 @@||api.solvemedia.com
-@@||api.solvemedia.com$script
-@@||www.digikala.com/sw.js$script,domain=www.digikala.com
 @@||api.solvemedia.com
 @@||api.solvemedia.com$script
+@@||api.solvemedia.com$script
+@@||www.digikala.com/sw.js$script,domain=www.digikala.com
 and-roid.ir##[href="http://netbarg.com/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75"][onclick="_gaq.push(['_trackEvent', 'Outgoing', 'netbarg.com', '/landing/fast/?utm_source=and-roid-ir&utm_medium=Banner&utm_campaign=tir92-click-75']);"] > IMG
 bia4music.com##a[href="http://chaarghad.com/"]
 bia4music.com##a[href^="http://bia4music.takshop91.biz/"]
@@ -451,8 +449,11 @@ bia4music.com##a[href^="http://www.bia4shop.ir/"]
 cld.persiangig.com###cldpg > .content > .center > .clearfix:nth-of-type(1)
 digiato.com##.square-tabligh
 digiato.com##body > .paged.guttered.digi-container:nth-of-type(3) > .clearfix.white.paper > .home-latest.no-bg.home-sec > .sticky-side.agahi-spots.home-col.columns.show-for-medium.medium-4.large-2
+digiato.com##body > .paged.guttered.digi-container:nth-of-type(3) > .clearfix.white.paper > .home-latest.no-bg.home-sec > .sticky-side.agahi-spots.home-col.columns.show-for-medium.medium-4.large-2
+download.ir###hdd_ads-2
 download.ir###hdd_ads-2
 download.ir##.kadr-ads
+download.ir##.m12.s12.l12.col.content-top-ads-box
 download.ir##.m12.s12.l12.col.content-top-ads-box
 edoc.com###stp-bg
 fararu.com##.page > .news_body > .news_col3 > .txt_adv_container
@@ -466,6 +467,8 @@ farsnews.com##body > .container:nth-of-type(5) > .mainframe > .hidden-xs.pull-ri
 forum.apktops.ir##.ads_below_navbar
 forum.apktops.ir##.header > .ads
 forum.lioncomputer.ir###ips_Posts > div:nth-of-type(2) > a[href="http://goo.gl/j2u23e"] > img[src="http://lioncomputer.ir/uppic/images/4asretem5i30qnwdzy23.jpg"]
+forum.lioncomputer.ir###ips_Posts > div:nth-of-type(2) > a[href="http://goo.gl/j2u23e"] > img[src="http://lioncomputer.ir/uppic/images/4asretem5i30qnwdzy23.jpg"]
+forum.lioncomputer.ir##.ipsSpacer_half.ipsSpacer_both.ipsAdvertisement:nth-of-type(3)
 forum.p30world.com###ad_global_below_navbar
 forum.persiantools.com##A[href="http://ads.persiantools.com"]
 forum.persiantools.com##IMG[alt="rond.ir"][src="http://fbm.ptcdn.ir/banners/rond.jpg?ssitoken_1429172542447_"]
@@ -475,12 +478,16 @@ forum.persiantools.com##IMG[onload="var elem=this;if (this==window) elem=documen
 forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/eniac.gif"]
 forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/khodroreview.jpg"]
 forum.persiantools.com##IMG[src="http://ir.ptcdn.org/forum/bm/p24.gif"]
+forum.persiantools.com##img[src^="https://fbm2.persiantools.net/"]
 gamefa.com###HeaderAdBox > a[href="http://Gembox.in/"]
 gamefa.com###LeftSide > .SideBarAdBlock
+gamefa.com###MainHugeAdBlock
 gamefa.com###MainHugeAdBlock
 gamefa.com###MainHugeAdBlock > p:nth-of-type(1) > a[href="http://goo.gl/udj0Cj"]
 gamefa.com###MainHugeAdBlock > p:nth-of-type(3) > a[href="http://www.gameplayiran1.com/"]
 gamefa.com###MainHugeAdBlock2
+gamefa.com###MainHugeAdBlock2
+gamefa.com###SingleAdBlock
 gamefa.com###SingleAdBlock
 gamefa.com###ad_bb1
 gamefa.com###ad_bb1 > p
@@ -491,6 +498,7 @@ google.com###vdls-advs
 google.com##.tas.knavi
 gooya.com###Table_01 > tbody > tr:nth-of-type(1)
 gooya.com##body > table:nth-of-type(3) > tbody > tr > td:nth-of-type(8)
+hamgardi.com##img[src^="/HamgardiImages/HamgardiAds/"]
 hastidownload.net##a[href="http://i4tiran.com/"]
 hastidownload.net##a[href^="http://freecall.dlsoft.in/ads.php"]
 hastidownload.net##a[href^="http://irlavan.ir/clash/ads.php"]
@@ -507,6 +515,7 @@ isna.ir##div > .master > tbody > tr > .col4 > .advcol-trailing-column
 isna.ir##div > .master > tbody > tr > .colNews > .news > .advcol-news-bottom
 itiran.com##.pull-right.addver2.span12:nth-of-type(2)
 katcr.co##a[href^="https://go.seed4.me/join.php"]
+katcr.co##a[href^="https://go.seed4.me/join.php"]
 khabarfarsi.com###ads_bar
 khabarpu.com###left > .lbox
 khabarpu.com###left > .lbox:nth-of-type(2)
@@ -515,8 +524,12 @@ mediafire.com##.dlPromo1Content.dlPromoContent
 mehrnews.com###sidebar > .row > .col-md-19.col-sm-32.col-xs-32 > .ads.box
 mehrnews.com###sidebar > .row > .hidden-xs.hidden-sm.col-xs-13
 mihandownload.com##.center-ads.well
+mihandownload.com##.center-ads.well
+mihandownload.com##.well:nth-of-type(4)
 mihandownload.com##.well:nth-of-type(4)
 mihandownload.com##.well:nth-of-type(5)
+mihandownload.com##.well:nth-of-type(5)
+mihandownload.com##.widget-text.textwidget:nth-of-type(3)
 mihandownload.com##.widget-text.textwidget:nth-of-type(3)
 moviecenter15.org##SPAN[style="margin-top:0px"]
 news.akairan.com###bottom-b > .grid-h.width100.grid-box > .deepest.shop.mod-box.module > .moduletable-banner
@@ -575,9 +588,14 @@ pop-music.ir##.wrapper > .maincontent > .postbox > .latestforum:nth-of-type(5) >
 pop-music.ir##.wrapper > .maincontent > .postbox > .post:nth-of-type(11) > .define-post
 pop-music.ir##img[alt="ads"]
 rouzegar.com##a[href="http://www.donyayemark.com/"]
+rouzegar.com##a[href="http://www.donyayemark.com/"]
+rouzegar.com##a[href="http://www.kasbdaramad.com/"]
 rouzegar.com##a[href="http://www.kasbdaramad.com/"]
 rouzegar.com##a[href^="http://kharid"]
+rouzegar.com##a[href^="http://kharid"]
 rouzegar.com##a[href^="http://www.shixon.com/"]
+rouzegar.com##a[href^="http://www.shixon.com/"]
+rouzegar.com##a[href^="http://www.takshop91.biz/"]
 rouzegar.com##a[href^="http://www.takshop91.biz/"]
 rozup.ir##.main > .right-block > .reqtxt[href="#"]
 rozup.ir##.main > .right-block > .txtad
@@ -585,197 +603,247 @@ s1.picofile.com###ads
 s1.picofile.com##IMG[src="http://ad.utop.ir/banners/*.*"]
 s1.picofile.com##OBJECT[width="468"]
 s1.picofile.com##iframe[src^="http://www.namasha.com/vitrin"]
+s1.picofile.com##iframe[src^="http://www.namasha.com/vitrin"]
 s4.picofile.com###ads
 s5.picofile.com###ads
+s5.picofile.com###ads
 s5.picofile.com###fileproperties > tbody > tr:nth-of-type(6) > td
+s5.picofile.com###fileproperties > tbody > tr:nth-of-type(6) > td
+salamdl.biz##.ADTUBE:nth-of-type(2)
+salamdl.biz##.sticky
+salamdl.biz##a[href^="http://www.clicksgear.com/watch"]
+salamdl.biz##center > .ADTUBE
+salamdl.ir###next1-231
 salamdl.ir###next1-231
 saz.sookhte.com##a[href="http://saz.sookhte.com/archive-sale"]
+soft98.ir###footer-smostafa
+soft98.ir###sidebar > .bg-light.card.d-block
+soft98.ir###sidebar > hr:nth-of-type(1)
+soft98.ir###sidebar_sticky > .card.bg-light.d-block
+soft98.ir##.adt.container
+soft98.ir##.adx-link
+soft98.ir##.adx__inner
+soft98.ir##.d-lg-inline-block.d-none.nav-item > .nav-link
+soft98.ir##div[class*="block"]:style(display: block !important)
 soft98.ir##div[class*="d-js3-bloc1k dp-1c"]:style(display: block !important)
-soft98.ir##div[class*="dp-1c d-js3-bloc1k "]:style(display: block !important)
-soft98.ir##div[class*="d-js3-bloc1k rc dp-1c"]:style(display: block !important)
 soft98.ir##div[class*="d-js3-bloc1k r2c dp-1c"]:style(display: block !important)
+soft98.ir##div[class*="d-js3-bloc1k r3c dp-1c"]:style(display: block !important)
 soft98.ir##div[class*="d-js3-bloc1k r4c dp-1c"]:style(display: block !important)
 soft98.ir##div[class*="d-js3-bloc1k r6c dp-1c"]:style(display: block !important)
-soft98.ir##div[class*="d-js3-bloc1k r3c dp-1c"]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc1k]:style(display: block !important)
-soft98.ir##div[class*=r3c]:style(display: block !important)
-soft98.ir##div[class*=dp-1c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc2k]:style(display: block !important)
+soft98.ir##div[class*="d-js3-bloc1k rc dp-1c"]:style(display: block !important)
+soft98.ir##div[class*="dp-1c d-js3-bloc1k "]:style(display: block !important)
 soft98.ir##div[class*="p-"]:style(display: block !important)
-soft98.ir##div[class*=rz]:style(display: block !important)
-soft98.ir##div[class*=dp-3c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc4k]:style(display: block !important)
-soft98.ir##div[class*=r1z]:style(display: block !important)
-soft98.ir##div[class*=dp-4c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc5k]:style(display: block !important)
-soft98.ir##div[class*=r2z]:style(display: block !important)
-soft98.ir##div[class*=dp-5c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc6k]:style(display: block !important)
-soft98.ir##div[class*=r3z]:style(display: block !important)
-soft98.ir##div[class*=dp-6c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc7k]:style(display: block !important)
-soft98.ir##div[class*=dp-7c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc8k]:style(display: block !important)
-soft98.ir##div[class*=dp-8c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc9k]:style(display: block !important)
 soft98.ir##div[class*=bikaria]:style(display: block !important)
-soft98.ir##div[class*=dp-9c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc10k]:style(display: block !important)
-soft98.ir##div[class*=dp-10c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc11k]:style(display: block !important)
-soft98.ir##div[class*=dp-11c]:style(display: block !important)
-soft98.ir##div[class*=d-js3-bloc12k]:style(display: block !important)
-soft98.ir##div[class*=dp-12c]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo11ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo12ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo13ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo14ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo15ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo16nk]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo1nk]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo2ck]:style(display: block !important)
-soft98.ir##div[class*=d2c]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo3ck]:style(display: block !important)
-soft98.ir##div[class*=dk3c]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo4ck]:style(display: block !important)
-soft98.ir##div[class*=dk4c]:style(display: block !important)
-soft98.ir##div[class*=rk]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo5ck]:style(display: block !important)
-soft98.ir##div[class*=dk5c]:style(display: block !important)
-soft98.ir##div[class*=r11k]:style(display: block !important)
-soft98.ir##div[class*=k11k]:style(display: block !important)
-soft98.ir##div[class*=g11n]:style(display: block !important)
-soft98.ir##div[class*=r12k]:style(display: block !important)
-soft98.ir##div[class*=k12k]:style(display: block !important)
-soft98.ir##div[class*=g12n]:style(display: block !important)
-soft98.ir##div[class*=r12k]:style(display: block !important)
-soft98.ir##div[class*=k12k]:style(display: block !important)
-soft98.ir##div[class*=g12n]:style(display: block !important)
-soft98.ir##div[class*=hj12j]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo6ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo7ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo8ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-blo9ck]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc10k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc11k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc12k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc1k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc2k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc4k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc5k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc6k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc7k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc8k]:style(display: block !important)
+soft98.ir##div[class*=d-js3-bloc9k]:style(display: block !important)
+soft98.ir##div[class*=d2c]:style(display: block !important)
+soft98.ir##div[class*=dk11c]:style(display: block !important)
+soft98.ir##div[class*=dk12c]:style(display: block !important)
+soft98.ir##div[class*=dk13c]:style(display: block !important)
+soft98.ir##div[class*=dk14c]:style(display: block !important)
+soft98.ir##div[class*=dk15c]:style(display: block !important)
+soft98.ir##div[class*=dk3c]:style(display: block !important)
+soft98.ir##div[class*=dk4c]:style(display: block !important)
+soft98.ir##div[class*=dk5c]:style(display: block !important)
 soft98.ir##div[class*=dk6c]:style(display: block !important)
-soft98.ir##div[class*=یک]:style(display: block !important)
+soft98.ir##div[class*=dk7c]:style(display: block !important)
+soft98.ir##div[class*=dk8c]:style(display: block !important)
+soft98.ir##div[class*=dk9c]:style(display: block !important)
+soft98.ir##div[class*=dnk16c]:style(display: block !important)
+soft98.ir##div[class*=dnk1c]:style(display: block !important)
+soft98.ir##div[class*=dnk2c]:style(display: block !important)
+soft98.ir##div[class*=dp-10c]:style(display: block !important)
+soft98.ir##div[class*=dp-11c]:style(display: block !important)
+soft98.ir##div[class*=dp-12c]:style(display: block !important)
+soft98.ir##div[class*=dp-1c]:style(display: block !important)
+soft98.ir##div[class*=dp-3c]:style(display: block !important)
+soft98.ir##div[class*=dp-4c]:style(display: block !important)
+soft98.ir##div[class*=dp-5c]:style(display: block !important)
+soft98.ir##div[class*=dp-6c]:style(display: block !important)
+soft98.ir##div[class*=dp-7c]:style(display: block !important)
+soft98.ir##div[class*=dp-8c]:style(display: block !important)
+soft98.ir##div[class*=dp-9c]:style(display: block !important)
+soft98.ir##div[class*=fdd1df]:style(display: block !important)
+soft98.ir##div[class*=fdd2df]:style(display: block !important)
+soft98.ir##div[class*=fdd3df]:style(display: block !important)
+soft98.ir##div[class*=fdd5df]:style(display: block !important)
+soft98.ir##div[class*=fdd6df]:style(display: block !important)
+soft98.ir##div[class*=fdd7df]:style(display: block !important)
+soft98.ir##div[class*=fddfdf]:style(display: block !important)
+soft98.ir##div[class*=fdf1fff]:style(display: block !important)
+soft98.ir##div[class*=fdf2fff]:style(display: block !important)
+soft98.ir##div[class*=fdf3fff]:style(display: block !important)
+soft98.ir##div[class*=fdf5fff]:style(display: block !important)
+soft98.ir##div[class*=fdf6fff]:style(display: block !important)
+soft98.ir##div[class*=fdf7fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf1fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf2fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf3fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf5fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf6fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdf7fff]:style(display: block !important)
+soft98.ir##div[class*=fdfdffff]:style(display: block !important)
+soft98.ir##div[class*=fdfdffffff]:style(display: block !important)
+soft98.ir##div[class*=g11n]:style(display: block !important)
+soft98.ir##div[class*=g12n]:style(display: block !important)
+soft98.ir##div[class*=g12n]:style(display: block !important)
+soft98.ir##div[class*=ghjj2222نk]:style(display: block !important)
+soft98.ir##div[class*=ghjjj2222222222222kk]:style(display: block !important)
+soft98.ir##div[class*=ghjjj222222ببب2222kk]:style(display: block !important)
+soft98.ir##div[class*=hh1erh]:style(display: block !important)
+soft98.ir##div[class*=hj12j]:style(display: block !important)
+soft98.ir##div[class*=k11k]:style(display: block !important)
+soft98.ir##div[class*=k12k]:style(display: block !important)
+soft98.ir##div[class*=k12k]:style(display: block !important)
+soft98.ir##div[class*=kujo1ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo2ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo3ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo5ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo6ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo7ooook]:style(display: block !important)
+soft98.ir##div[class*=kujo8ooook]:style(display: block !important)
+soft98.ir##div[class*=zzzz8xxxxx]:style(display: block !important)
+soft98.ir##div[class*=llkk8hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=xxx8z]:style(display: block !important)
+soft98.ir##div[class*=uuu8mmmm]:style(display: block !important)
+soft98.ir##div[class*=pp8kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=uuu8kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uy8jjjjj]:style(display: block !important)
+soft98.ir##div[class*=fdd8df]:style(display: block !important)
+soft98.ir##div[class*=fdfdf8fff]:style(display: block !important)
+soft98.ir##div[class*=fdf8fff]:style(display: block !important)
+soft98.ir##div[class*=p-js3-blo3nk]:style(display: block !important)
+soft98.ir##div[class*=dnk3c]:style(display: block !important)
+soft98.ir##div[class*=kujo9ooook]:style(display: block !important)
+soft98.ir##div[class*=zzzz9xxxxx]:style(display: block !important)
+soft98.ir##div[class*=llkk9hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=xxx9z]:style(display: block !important)
+soft98.ir##div[class*=uuu9mmmm]:style(display: block !important)
+soft98.ir##div[class*=pp9kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=uuu9kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uy9jjjjj]:style(display: block !important)
+soft98.ir##div[class*=fdd9df]:style(display: block !important)
+soft98.ir##div[class*=fdfdf9fff]:style(display: block !important)
+soft98.ir##div[class*=fdf9fff]:style(display: block !important)
+soft98.ir##div[class*=p1-js3-blo4nk]:style(display: block !important)
+soft98.ir##div[class*=dnk4c]:style(display: block !important)
+soft98.ir##div[class*=kujoooooooojk]:style(display: block !important)
+soft98.ir##div[class*=kzzjk111111111111122211111111]:style(display: block !important)
+soft98.ir##div[class*=kzzjk111111111بببfff11222111111fff11]:style(display: block !important)
+soft98.ir##div[class*=kzzjk1111111ننff112221111fff11]:style(display: block !important)
+soft98.ir##div[class*=llkk1hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkk2hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkk3hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkk5hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkk6hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkk7hhhhhh]:style(display: block !important)
+soft98.ir##div[class*=llkkhhhhhhhh]:style(display: block !important)
+soft98.ir##div[class*=p-js3-blo2nk]:style(display: block !important)
+soft98.ir##div[class*=pp1kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=pp2kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=pp3kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=pp5kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=pp6kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=pp7kjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=ppllkjjjjkkkkk]:style(display: block !important)
+soft98.ir##div[class*=r11k]:style(display: block !important)
+soft98.ir##div[class*=r12k]:style(display: block !important)
+soft98.ir##div[class*=r12k]:style(display: block !important)
+soft98.ir##div[class*=r1z]:style(display: block !important)
+soft98.ir##div[class*=r2z]:style(display: block !important)
+soft98.ir##div[class*=r3c]:style(display: block !important)
+soft98.ir##div[class*=r3z]:style(display: block !important)
+soft98.ir##div[class*=rk]:style(display: block !important)
+soft98.ir##div[class*=rz]:style(display: block !important)
+soft98.ir##div[class*=tyy11yy]:style(display: block !important)
+soft98.ir##div[class*=tyyyy]:style(display: block !important)
+soft98.ir##div[class*=uuu1kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu1mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuu2kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu2mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuu3kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu3mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuu5kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu5mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuu6kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu6mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuu7kklggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuu7mmmm]:style(display: block !important)
+soft98.ir##div[class*=uuukklllggggggggg]:style(display: block !important)
+soft98.ir##div[class*=uuummmm]:style(display: block !important)
+soft98.ir##div[class*=uy1jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uy2jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uy3jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uy5jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uy6jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uy7jjjjj]:style(display: block !important)
+soft98.ir##div[class*=uyuyujjjjjjjjjjj]:style(display: block !important)
+soft98.ir##div[class*=xxx1zz]:style(display: block !important)
+soft98.ir##div[class*=xxx2zz]:style(display: block !important)
+soft98.ir##div[class*=xxx3zz]:style(display: block !important)
+soft98.ir##div[class*=xxx5zz]:style(display: block !important)
+soft98.ir##div[class*=xxx6zz]:style(display: block !important)
+soft98.ir##div[class*=xxx7zz]:style(display: block !important)
+soft98.ir##div[class*=xxxxzzz]:style(display: block !important)
+soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkkkkkkkkkkkk]:style(display: block !important)
+soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkبببkkkkffkkkkkkk]:style(display: block !important)
+soft98.ir##div[class*=y11hkkkkkkkkkkkkkننkkkffkkkkkkk]:style(display: block !important)
+soft98.ir##div[class*=y512y]:style(display: block !important)
+soft98.ir##div[class*=y5y]:style(display: block !important)
+soft98.ir##div[class*=ytttttttttttttttttttttyty]:style(display: block !important)
+soft98.ir##div[class*=yttttttttttttببtttttyty]:style(display: block !important)
+soft98.ir##div[class*=yttttttنtttyty]:style(display: block !important)
+soft98.ir##div[class*=yy1y]:style(display: block !important)
+soft98.ir##div[class*=yy211y]:style(display: block !important)
+soft98.ir##div[class*=yy212y]:style(display: block !important)
+soft98.ir##div[class*=yy213y]:style(display: block !important)
+soft98.ir##div[class*=yy2y]:style(display: block !important)
+soft98.ir##div[class*=yy3y]:style(display: block !important)
+soft98.ir##div[class*=zzzz1xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzz2xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzz3xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzz5xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzz6xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzz7xxxxx]:style(display: block !important)
+soft98.ir##div[class*=zzzzxxxxx]:style(display: block !important)
 soft98.ir##div[class*=دو]:style(display: block !important)
 soft98.ir##div[class*=سه]:style(display: block !important)
-soft98.ir##div[class*=چ]:style(display: block !important)
 soft98.ir##div[class*=پ]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo7ck]:style(display: block !important)
-soft98.ir##div[class*=dk7c]:style(display: block !important)
-soft98.ir##div[class*=kzzjk111111111111122211111111]:style(display: block !important)
-soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkkkkkkkkkkkk]:style(display: block !important)
-soft98.ir##div[class*=ghjjj2222222222222kk]:style(display: block !important)
-soft98.ir##div[class*=ytttttttttttttttttttttyty]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo8ck]:style(display: block !important)
-soft98.ir##div[class*=dk8c]:style(display: block !important)
-soft98.ir##div[class*=kzzjk111111111بببfff11222111111fff11]:style(display: block !important)
-soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkبببkkkkffkkkkkkk]:style(display: block !important)
-soft98.ir##div[class*=ghjjj222222ببب2222kk]:style(display: block !important)
-soft98.ir##div[class*=yttttttttttttببtttttyty]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo9ck]:style(display: block !important)
-soft98.ir##div[class*=tyyyy]:style(display: block !important)
-soft98.ir##div[class*=yy3y]:style(display: block !important)
-soft98.ir##div[class*=y5y]:style(display: block !important)
-soft98.ir##div[class*=yy2y]:style(display: block !important)
-soft98.ir##div[class*=yy1y]:style(display: block !important)
-soft98.ir##div[class*=dk9c]:style(display: block !important)
-soft98.ir##.d-lg-inline-block.d-none.nav-item > .nav-link
-soft98.ir###footer-smostafa
-soft98.ir##div[class*=kzzjk1111111ننff112221111fff11]:style(display: block !important)
-soft98.ir##div[class*=y11hkkkkkkkkkkkkkننkkkffkkkkkkk]:style(display: block !important)
-soft98.ir##div[class*=ghjj2222نk]:style(display: block !important)
-soft98.ir##div[class*=yttttttنtttyty]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo11ck]:style(display: block !important)
-soft98.ir##div[class*=tyy11yy]:style(display: block !important)
-soft98.ir##div[class*=yy213y]:style(display: block !important)
-soft98.ir##div[class*=y512y]:style(display: block !important)
-soft98.ir##div[class*=yy212y]:style(display: block !important)
-soft98.ir##div[class*=yy211y]:style(display: block !important)
-soft98.ir##div[class*=dk11c]:style(display: block !important)
-soft98.ir##div[class*=hh1erh]:style(display: block !important)
-soft98.ir##div[class*=kujoooooooojk]:style(display: block !important)
-soft98.ir##div[class*=zzzzxxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkkhhhhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxxxzzz]:style(display: block !important)
-soft98.ir##div[class*=uuummmm]:style(display: block !important)
-soft98.ir##div[class*=ppllkjjjjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuukklllggggggggg]:style(display: block !important)
-soft98.ir##div[class*=uyuyujjjjjjjjjjj]:style(display: block !important)
-soft98.ir##div[class*=fddfdf]:style(display: block !important)
-soft98.ir##div[class*=fdfdffffff]:style(display: block !important)
-soft98.ir##div[class*=fdfdffff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo12ck]:style(display: block !important)
-soft98.ir##div[class*=dk12c]:style(display: block !important)
-soft98.ir##div[class*=kujo1ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz1xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk1hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx1zz]:style(display: block !important)
-soft98.ir##div[class*=uuu1mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp1kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu1kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy1jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd1df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf1fff]:style(display: block !important)
-soft98.ir##div[class*=fdf1fff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo13ck]:style(display: block !important)
-soft98.ir##div[class*=dk13c]:style(display: block !important)
-soft98.ir##div[class*=kujo2ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz2xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk2hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx2zz]:style(display: block !important)
-soft98.ir##div[class*=uuu2mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp2kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu2kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy2jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd2df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf2fff]:style(display: block !important)
-soft98.ir##div[class*=fdf2fff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo14ck]:style(display: block !important)
-soft98.ir##div[class*=dk14c]:style(display: block !important)
-soft98.ir##div[class*=kujo3ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz3xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk3hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx3zz]:style(display: block !important)
-soft98.ir##div[class*=uuu3mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp3kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu3kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy3jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd3df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf3fff]:style(display: block !important)
-soft98.ir##div[class*=fdf3fff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo15ck]:style(display: block !important)
-soft98.ir##div[class*=dk15c]:style(display: block !important)
-soft98.ir##div[class*=kujo5ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz5xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk5hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx5zz]:style(display: block !important)
-soft98.ir##div[class*=uuu5mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp5kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu5kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy5jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd5df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf5fff]:style(display: block !important)
-soft98.ir##div[class*=fdf5fff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo16nk]:style(display: block !important)
-soft98.ir##div[class*=dnk16c]:style(display: block !important)
-soft98.ir##div[class*=kujo6ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz6xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk6hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx6zz]:style(display: block !important)
-soft98.ir##div[class*=uuu6mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp6kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu6kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy6jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd6df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf6fff]:style(display: block !important)
-soft98.ir##div[class*=fdf6fff]:style(display: block !important)
-soft98.ir##div[class*=d-js3-blo1nk]:style(display: block !important)
-soft98.ir##div[class*=dnk1c]:style(display: block !important)
-soft98.ir##div[class*=kujo7ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz7xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk7hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx7zz]:style(display: block !important)
-soft98.ir##div[class*=uuu7mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp7kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu7kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy7jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd7df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf7fff]:style(display: block !important)
-soft98.ir##div[class*=fdf7fff]:style(display: block !important)
-soft98.ir##div[class*=p-js3-blo2nk]:style(display: block !important)
-soft98.ir##div[class*=dnk2c]:style(display: block !important)
+soft98.ir##div[class*=چ]:style(display: block !important)
+soft98.ir##div[class*=یک]:style(display: block !important)
+soft98.ir##div[style*="display:none"]:style(display: block !important)
+soft98.ir#$#.d-js-block{ display: block !important; }
+soft98.ir#$#.d-none{ display: block !important; }
+soft98.ir#$#.d-none{ display: block !important; }
+soft98.ir#$#.tab-content > * > * { display: block !important }
+soft98.ir#$#.tab-content > * { display: block !important }
+soft98.ir#$#.tab-pane > * > * { display: block !important }
+soft98.ir#$#.tab-pane > * { display: block !important }
+soft98.ir#$#div[class^="tab"] * { display : block !important }
 tadvingarha.ir###ads
 tebyan.net###Context > .MainMidlle.midllepanel > .insidecon > .tpnlIC.tpnl > .lpnlTIC.bannerlicon.lpnl > .bannerboxleft.window8
 teh-music26.asia###ad54 + * + * + * + * + * TD[bgcolor="#131313"]
@@ -792,7 +860,10 @@ uploadboy.com##.adsbygoogle
 uploadboy.com##.adsbygoogle
 uploadboy.com##.container > div > form > div:nth-of-type(3) > .row > .adsbygoogle
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
+vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
 vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
+vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
+vatandownload.com##.ads:nth-of-type(1)
 vatandownload.com##.ads:nth-of-type(1)
 vista.ir##body > .container:nth-of-type(3) > .row > .span3 > .adfeatu
 vista.ir##body > .container:nth-of-type(3) > .row > .span3 > .headback:nth-of-type(5) > a[href="/ads/"]
@@ -808,9 +879,11 @@ www.akairan.com###showcase894
 www.akairan.com###sitecontent > .inside
 www.akairan.com###target8771
 www.android30t.com##a[href^="http://iranclash"]
+www.android30t.com##a[href^="http://iranclash"]
 www.aparat.com###box_recoms > .hidden_s0.notShowAds
 www.aparat.com###videoOne_player > .player_panel.\/\*hidden_s1\*\/.clearfix
 www.aparat.com###videoOne_player > .player_panel.hidden_s0.clearfix
+www.aparat.com##.is-package-autocharge-mobile.clearfix.smartbanner
 www.aparat.com##.is-package-autocharge-mobile.clearfix.smartbanner
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(10)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(10) > .clearfix.entry
@@ -818,19 +891,25 @@ www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(11)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(3)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(3)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(4)
+www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(4)
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(5) > .clearfix.entry
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(6) > .clearfix.entry
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(7) > .clearfix.entry
 www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(9)
 www.apktops.ir###text-3 > .widgettitle
 www.apktops.ir##.fix.clearfix
+www.apktops.ir##.fix.clearfix
+www.apktops.ir##.fix.clearfix:nth-of-type(4)
 www.apktops.ir##.fix.clearfix:nth-of-type(4)
 www.apktops.ir##.tabliq
 www.apktops.ir##a[href^="http://ad.apps.fm"]
+www.apktops.ir##a[href^="http://ad.apps.fm"]
 www.apktops.ir##a[href^="http://getapp.giftgift.ir"]
+www.apktops.ir##a[href^="http://limoosoft.com/"]
 www.apktops.ir##a[href^="http://limoosoft.com/"]
 www.apktops.ir##img[alt="asiatech"]
 www.asriran.com##.page_home > .home_adv
+www.balatarin.com##.announcement
 www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item585.level1 > .level1[href="/advertise.html"] > span
 www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item634.level1
 www.beytoote.com###footer > .deepest.module > .menu-line.menu > .item634.level1 > .level1[href="http://charge.beytoote.com/"] > span
@@ -841,18 +920,24 @@ www.beytoote.com###sidebar-b > .grid-v.width100.grid-box:nth-of-type(3) > .deepe
 www.beytoote.com###toolbar > .float-left > .deepest.module > .menu-line.menu > .item585.level1 > .level1[href="/advertise.html"] > span
 www.beytoote.com###toolbar > .float-left > .deepest.module > .menu-line.menu > .item634.level1 > .level1[href="http://charge.beytoote.com/"] > span
 www.blackboxrepack.com##a[href^="http://www.steepto.com/ghits/"]
+www.blackboxrepack.com##a[href^="http://www.steepto.com/ghits/"]
+www.campec.ir###center > .post:nth-of-type(1) > .block
 www.campec.ir###center > .post:nth-of-type(1) > .block
 www.campec.ir###center > .post:nth-of-type(1) > .block > div:nth-of-type(1)
+www.campec.ir###center > .post:nth-of-type(2) > .block
 www.campec.ir###center > .post:nth-of-type(2) > .block
 www.campec.ir##a[href="http://lampsazan.com/"]
 www.campec.ir##a[href="http://www.imagesalbum.blogsky.com/"]
 www.campec.ir##a[href^="http://360kala.net"]
 www.campec.ir##a[href^="http://clash-hack-tools.blog.ir/"]
 www.campec.ir##a[href^="http://off.yasell.biz/"]
+www.campec.ir##a[href^="http://off.yasell.biz/"]
 www.campec.ir##a[href^="http://products.roozkala.net/"]
 www.campec.ir##a[href^="http://toluei.com"]
 www.campec.ir##a[href^="http://www.rahnama.rozblog.com/"]
 www.campec.ir##img[alt="ADS"]
+www.campec.ir##img[alt="ADS"]
+www.campec.ir##img[alt="ads"]
 www.campec.ir##img[alt="ads"]
 www.cloob.com###page_left_col > .secondary-left-col_content > .clearfix.boxStart > .clearfix.makeTitle
 www.cloob.com###page_left_col > .secondary-left-col_content > .clearfix.boxStart > div:nth-of-type(2) > center
@@ -904,16 +989,29 @@ www.downloadha.com##.entry-etc
 www.downloadha.com##.header > .spbanners
 www.entekhab.ir##.page > .page_body > .col3 > .adv_col
 www.fardanews.com##a[href^="http://fardanews.com/fa/ads/"]
+www.fardanews.com##a[href^="http://fardanews.com/fa/ads/"]
+www.farsmovie.ir##.wrapper > a[href="http://love2music.com"] > img[alt="سایت موزیک"]
 www.farsmovie.ir##.wrapper > a[href="http://love2music.com"] > img[alt="سایت موزیک"]
 www.farsmovie.ir##a[href="http://www.nabzeroz.com"]
+www.farsmovie.ir##a[href="http://www.nabzeroz.com"]
+www.farsmovie.ir##a[href^="http://clash"]
 www.farsmovie.ir##a[href^="http://clash"]
 www.farsmovie.ir##a[href^="http://toppopup"]
+www.farsmovie.ir##a[href^="http://toppopup"]
+www.farsmovie.ir##a[href^="http://www.yasell.biz/"]
 www.farsmovie.ir##a[href^="http://www.yasell.biz/"]
 www.farsmovie.ir##img[alt^="خرید جم"]
+www.farsmovie.ir##img[alt^="خرید جم"]
+www.farsroid.com##.col.site-statistics
 www.farsroid.com##.col.site-statistics
 www.farsroid.com##.row.post-sabets
+www.farsroid.com##.row.post-sabets
+www.farsroid.com##.row.post-sabets:nth-of-type(5)
 www.farsroid.com##.row.post-sabets:nth-of-type(5)
 www.farsroid.com##.row.single-sabet.post-sabets
+www.farsroid.com##.row.single-sabet.post-sabets
+www.film2movie.biz##.ads.box
+www.film2movie.biz##.headbanners
 www.game2dl.com###asiatech
 www.graphiran.com##a[href^="http://gishop.ir/customers/"]
 www.graphiran.com##a[href^="http://shop.graphiran.com/products/"]
@@ -923,6 +1021,8 @@ www.i-clarified.ir##body > div:nth-of-type(1) > a[href="http://giftcard.ir"]
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div > div
 www.irmp3.ir###our-work:nth-of-type(2) > .row > div:nth-of-type(4) > div:nth-of-type(2)
 www.khabaronline.ir##.advContainer.advCon
+www.khabaronline.ir##.advContainer.advCon
+www.khabaronline.ir##.advContainer.margin-b-md.row
 www.khabaronline.ir##.advContainer.margin-b-md.row
 www.khabaronline.ir##.wrapper > .detailPageCont > .advCol
 www.khabaronline.ir##.wrapper > .detailPageCont > .leftCol > .leftColAdvCon:nth-of-type(1) > .advCon
@@ -931,16 +1031,29 @@ www.khabaronline.ir##.wrapper > .detailPageCont > .rightCol > .topNewsAdvCont:nt
 www.khabaronline.ir##.wrapper > .homeMainContainer > .advCol
 www.khabaronline.ir##.wrapper > .homeMainContainer > .leftCol > .advCon
 www.khabaronline.ir##.wrapper > .mainHeaderCont > .headerLogoCont > .left > .headerBannerPlaceHolder > .advCon
+www.manototv.com##.onesignal-bell-launcher-button
+www.mashreghnews.ir###ad55_24
+www.mashreghnews.ir###ad59_38
+www.mashreghnews.ir###ad59_39
+www.mashreghnews.ir###ad60_6
+www.mashreghnews.ir##[href*="/redirect/ads/"]
 www.mobile.ir###bottombanner
 www.mobile.ir###specialbanner
 www.mobile.ir###topmenu > .banner
 www.namasha.com###related-videos > .panel-default.panel > .panel-body > .row.visible-md.visible-lg
+www.namasha.com###related-videos > .panel-default.panel > .panel-body > .row.visible-md.visible-lg
+www.p30day.com###anetwork-964294
 www.p30day.com###anetwork-964294
 www.p30day.com###before_post > .adsblockpop.static_posts > .scroller
+www.p30day.com###before_post > .adsblockpop.static_posts > .scroller
+www.p30day.com###sidebar > .sidebarSkull > .right_contentBox > article:nth-of-type(2)
 www.p30day.com###sidebar > .sidebarSkull > .right_contentBox > article:nth-of-type(2)
 www.p30day.com##.ads
+www.p30day.com##.ads
+www.p30day.com##.banners
 www.p30day.com##.banners
 www.pcworld.com###bcplayer-rightrail_html5_api
+www.pelanhaa.ir##a[href^="http://gem."]
 www.pelanhaa.ir##a[href^="http://gem."]
 www.persianv.com##body > div:nth-of-type(2) > .container > .top_ads_one > div
 www.persianv.com##body > div:nth-of-type(2) > .container > .top_ads_two > div
@@ -948,6 +1061,7 @@ www.rozblog.com##body > div:nth-of-type(3) > .ads-slid > .ads-text
 www.rozblog.com##body > div:nth-of-type(3) > .ads_news > .ads_1
 www.rozblog.com##body > div:nth-of-type(3) > .ads_news > .ads_1 > .btn-ads[href="/ads.php"]
 www.rozblog.com##body > div:nth-of-type(3) > .text_ads_down > fieldset
+www.saat24.news##[href^="/redirect/ads/"]
 www.sakhtafzarmag.com##a[href^="/component/banners"]
 www.sarzamindownload.com##a[href^="http://ads.aypan.com"]
 www.sarzamindownload.com##a[href^="http://myfreefarm.ir/"]
@@ -961,6 +1075,12 @@ www.shahrsakhtafzar.com###rt-sidebar-a > ._pic:nth-of-type(4) > .rt-block
 www.shahrsakhtafzar.com###rt-sidebar-a > .line > .rt-block
 www.shahrsakhtafzar.com###rt-sidebar-a > .line > .rt-block > .module-surround
 www.shahrsakhtafzar.com###rt-transition > center
+www.shahrsakhtafzar.com##.ads2col.advert
+www.shahrsakhtafzar.com##.ads2colmobile.advert
+www.shahrsakhtafzar.com##.advert
+www.shatelland.com##[href*="://ck.yektanet.com/b/click"]
+www.shatelland.com##div.adds-namava:nth-of-type(4)
+www.shatelland.com##div.adds-namava:nth-of-type(5)
 www.softgozar.com###MasterTable > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(2)
 www.softgozar.com###MasterTable > tbody > tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > center:nth-of-type(3) > .Label > .awsize-120-240.anetwork-xc-banner
 www.softgozar.com###MasterTable > tbody > tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > table > tbody > tr > td
@@ -976,14 +1096,24 @@ www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(8) > td
 www.softgozar.com###dtlAdvertiseRightPan > tbody > tr:nth-of-type(9) > td
 www.tabnak.ir###news_top > .ticker_container > .marquee_container
 www.tabnak.ir###news_top > .ticker_container > .marquee_container > .marquee_content > marquee
+www.tasnimnews.com##.col-xs-12.col-sm-12.col-md-3.ads
+www.tasnimnews.com##[href^="http://ck.yektanet.com/click/"]
 www.tebyan.net###ctl07_ctl05_ctl00_pnlPartMenuArticle > .LeftPanelBox
 www.tgju.org###advertise-place-1
+www.tgju.org###advertise-place-1
+www.tgju.org###advertise-place-square-2
 www.tgju.org###advertise-place-square-2
 www.tgju.org###advertise-place-square-3
+www.tgju.org###advertise-place-square-3
 www.tgju.org##img[src^="images/advertisement/"]
+www.tgju.org##img[src^="images/advertisement/"]
+www.varzesh3.com###main > .no-iframe-ad
 www.varzesh3.com###main > .no-iframe-ad
 www.varzesh3.com##.blank.ad
 www.varzesh3.com##.blank.ad
+www.varzesh3.com##.blank.ad
+www.varzesh3.com##.blank.ad:nth-of-type(1)
+www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.varzesh3.com##.blank.ad:nth-of-type(1)
@@ -991,156 +1121,21 @@ www.varzesh3.com##.blank.ad:nth-of-type(1)
 www.yjc.ir##.page > .main > .col5 > div:nth-of-type(2) > div:nth-of-type(1)
 www.yjc.ir##.page > .main > .col5 > div:nth-of-type(3)
 www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
+www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
 www.zoomit.ir###Mod228 > .module-inner > .module-ct > .style-plain.bannergroup > .banneritem:nth-of-type(2)
 www.zoomit.ir###rt-afterpost
 www.zoomit.ir###rt-afterpost > div > .deepest.mod-box.clearfix.bannergroup
 www.zoomit.ir##.banneritem
 www.zoomit.ir##.style-plain.bannergroup
 www.zoomit.ir##.text-adv-box.panel-default.panel
+www.zoomit.ir##.text-adv-box.panel-default.panel
 www.zoomit.ir##a[href^="/component/banners/"]
 www.zoomit.ir##img[alt="تاکسی یاب"]
 zoomg.ir###content-anchor-inner > .alert-warning.alert-dismissable.alert
 zoomg.ir###it-ad-header
 zoomg.ir##a[href="http://zurl.ir/Uq40I"]
-55online.ir##[src^="/uploads/ads/"]
-digiato.com##body > .paged.guttered.digi-container:nth-of-type(3) > .clearfix.white.paper > .home-latest.no-bg.home-sec > .sticky-side.agahi-spots.home-col.columns.show-for-medium.medium-4.large-2
-download.ir###hdd_ads-2
-download.ir##.m12.s12.l12.col.content-top-ads-box
-forum.lioncomputer.ir###ips_Posts > div:nth-of-type(2) > a[href="http://goo.gl/j2u23e"] > img[src="http://lioncomputer.ir/uppic/images/4asretem5i30qnwdzy23.jpg"]
-forum.lioncomputer.ir##.ipsSpacer_half.ipsSpacer_both.ipsAdvertisement:nth-of-type(3)
-forum.persiantools.com##img[src^="https://fbm2.persiantools.net/"]
-gamefa.com###MainHugeAdBlock
-gamefa.com###MainHugeAdBlock2
-gamefa.com###SingleAdBlock
-hamgardi.com##img[src^="/HamgardiImages/HamgardiAds/"]
-katcr.co##a[href^="https://go.seed4.me/join.php"]
-mihandownload.com##.center-ads.well
-mihandownload.com##.well:nth-of-type(4)
-mihandownload.com##.well:nth-of-type(5)
-mihandownload.com##.widget-text.textwidget:nth-of-type(3)
-rouzegar.com##a[href="http://www.donyayemark.com/"]
-rouzegar.com##a[href="http://www.kasbdaramad.com/"]
-rouzegar.com##a[href^="http://kharid"]
-rouzegar.com##a[href^="http://www.shixon.com/"]
-rouzegar.com##a[href^="http://www.takshop91.biz/"]
-s1.picofile.com##iframe[src^="http://www.namasha.com/vitrin"]
-s5.picofile.com###ads
-s5.picofile.com###fileproperties > tbody > tr:nth-of-type(6) > td
-salamdl.biz##.ADTUBE:nth-of-type(2)
-salamdl.biz##.sticky
-salamdl.biz##a[href^="http://www.clicksgear.com/watch"]
-salamdl.biz##center > .ADTUBE
-salamdl.ir###next1-231
-www.shatelland.com##div.adds-namava:nth-of-type(4)
-www.shatelland.com##div.adds-namava:nth-of-type(5)
-www.shatelland.com##[href*="://ck.yektanet.com/b/click"]
 ||cdn.yektanet.com/$subdocument||soft98.ir^$inline-script,first-party
-soft98.ir#$#.d-none{ display: block !important; }
-||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
 ||soft98.ir/sp-push-worker.js$script,first-party
-||soft98.ir^$inline-script,first-party
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
-soft98.ir#$#.tab-content > * > * { display: block !important }
-soft98.ir#$#.tab-content > * { display: block !important }
-soft98.ir#$#.d-none{ display: block !important; }
-soft98.ir#$#.d-js-block{ display: block !important; }
-soft98.ir#$#.tab-pane > * > * { display: block !important }
-soft98.ir#$#.tab-pane > * { display: block !important }
-soft98.ir#$#div[class^="tab"] * { display : block !important }
-soft98.ir##div[style*="display:none"]:style(display: block !important)
-soft98.ir##div[class*="block"]:style(display: block !important)
-soft98.ir##.adt.container
-soft98.ir##.adx-link
-soft98.ir###sidebar > .bg-light.card.d-block
-soft98.ir###sidebar > hr:nth-of-type(1)
-soft98.ir###sidebar_sticky > .card.bg-light.d-block
-soft98.ir##.adx__inner
-vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(5)
-vatandownload.com###warpper > .clearfix.content > .two-sidebar > .center-menu > .links-content:nth-of-type(6)
-vatandownload.com##.ads:nth-of-type(1)
-www.android30t.com##a[href^="http://iranclash"]
-www.aparat.com##.is-package-autocharge-mobile.clearfix.smartbanner
-www.apktops.ir###content > .fix.clearfix.post-single.post:nth-of-type(4)
-www.apktops.ir##.fix.clearfix
-www.apktops.ir##.fix.clearfix:nth-of-type(4)
-www.apktops.ir##a[href^="http://ad.apps.fm"]
-www.apktops.ir##a[href^="http://limoosoft.com/"]
-www.balatarin.com##.announcement
-www.blackboxrepack.com##a[href^="http://www.steepto.com/ghits/"]
-www.campec.ir###center > .post:nth-of-type(1) > .block
-www.campec.ir###center > .post:nth-of-type(2) > .block
-www.campec.ir##a[href^="http://off.yasell.biz/"]
-www.campec.ir##img[alt="ADS"]
-www.campec.ir##img[alt="ads"]
-www.fardanews.com##a[href^="http://fardanews.com/fa/ads/"]
-www.farsmovie.ir##.wrapper > a[href="http://love2music.com"] > img[alt="سایت موزیک"]
-www.farsmovie.ir##a[href="http://www.nabzeroz.com"]
-www.farsmovie.ir##a[href^="http://clash"]
-www.farsmovie.ir##a[href^="http://toppopup"]
-www.farsmovie.ir##a[href^="http://www.yasell.biz/"]
-www.farsmovie.ir##img[alt^="خرید جم"]
-www.farsroid.com##.col.site-statistics
-www.farsroid.com##.row.post-sabets
-www.farsroid.com##.row.post-sabets:nth-of-type(5)
-www.farsroid.com##.row.single-sabet.post-sabets
-www.film2movie.biz##.ads.box
-www.film2movie.biz##.headbanners
-www.khabaronline.ir##.advContainer.advCon
-www.khabaronline.ir##.advContainer.margin-b-md.row
-www.manototv.com##.onesignal-bell-launcher-button
-www.mashreghnews.ir###ad55_24
-www.mashreghnews.ir###ad59_38
-www.mashreghnews.ir###ad59_39
-www.mashreghnews.ir###ad60_6
-www.mashreghnews.ir##[href*="/redirect/ads/"]
-www.namasha.com###related-videos > .panel-default.panel > .panel-body > .row.visible-md.visible-lg
-www.p30day.com###anetwork-964294
-www.p30day.com###before_post > .adsblockpop.static_posts > .scroller
-www.p30day.com###sidebar > .sidebarSkull > .right_contentBox > article:nth-of-type(2)
-www.p30day.com##.ads
-www.p30day.com##.banners
-www.pelanhaa.ir##a[href^="http://gem."]
-www.saat24.news##[href^="/redirect/ads/"]
-www.shahrsakhtafzar.com##.ads2col.advert
-www.shahrsakhtafzar.com##.ads2colmobile.advert
-www.shahrsakhtafzar.com##.advert
-www.tasnimnews.com##.col-xs-12.col-sm-12.col-md-3.ads
-www.tasnimnews.com##[href^="http://ck.yektanet.com/click/"]
-www.tgju.org###advertise-place-1
-www.tgju.org###advertise-place-square-2
-www.tgju.org###advertise-place-square-3
-www.tgju.org##img[src^="images/advertisement/"]
-www.varzesh3.com###main > .no-iframe-ad
-www.varzesh3.com##.blank.ad:nth-of-type(1)
-www.varzesh3.com##.blank.ad:nth-of-type(1)
-www.varzesh3.com##.blank.ad
-www.yjc.ir##a[href^="http://yjc.ir/fa/ads/"]
-www.zoomit.ir##.text-adv-box.panel-default.panel
-soft98.ir##div[class*=kujo8ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz8xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk8hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx8z]:style(display: block !important)
-soft98.ir##div[class*=uuu8mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp8kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu8kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy8jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd8df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf8fff]:style(display: block !important)
-soft98.ir##div[class*=fdf8fff]:style(display: block !important)
-soft98.ir##div[class*=p-js3-blo3nk]:style(display: block !important)
-soft98.ir##div[class*=dnk3c]:style(display: block !important)
-
-soft98.ir##div[class*=kujo9ooook]:style(display: block !important)
-soft98.ir##div[class*=zzzz9xxxxx]:style(display: block !important)
-soft98.ir##div[class*=llkk9hhhhhh]:style(display: block !important)
-soft98.ir##div[class*=xxx9z]:style(display: block !important)
-soft98.ir##div[class*=uuu9mmmm]:style(display: block !important)
-soft98.ir##div[class*=pp9kjkkkkk]:style(display: block !important)
-soft98.ir##div[class*=uuu9kklggggggg]:style(display: block !important)
-soft98.ir##div[class*=uy9jjjjj]:style(display: block !important)
-soft98.ir##div[class*=fdd9df]:style(display: block !important)
-soft98.ir##div[class*=fdfdf9fff]:style(display: block !important)
-soft98.ir##div[class*=fdf9fff]:style(display: block !important)
-soft98.ir##div[class*=p1-js3-blo4nk]:style(display: block !important)
-soft98.ir##div[class*=dnk4c]:style(display: block !important)
-
+||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
+||soft98.ir^$inline-script,first-party
