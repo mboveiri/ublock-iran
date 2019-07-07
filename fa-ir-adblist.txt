@@ -993,14 +993,12 @@ soft98.ir##div[class*=چ]:style(display: block !important)
 soft98.ir##div[class*=پ]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo7ck]:style(display: block !important)
 soft98.ir##div[class*=dk7c]:style(display: block !important)
-
 soft98.ir##div[class*=kzzjk111111111111122211111111]:style(display: block !important)
 soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkkkkkkkkkkkk]:style(display: block !important)
 soft98.ir##div[class*=ghjjj2222222222222kk]:style(display: block !important)
 soft98.ir##div[class*=ytttttttttttttttttttttyty]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo8ck]:style(display: block !important)
 soft98.ir##div[class*=dk8c]:style(display: block !important)
-
 soft98.ir##div[class*=kzzjk111111111بببfff11222111111fff11]:style(display: block !important)
 soft98.ir##div[class*=y11hkkkkkkkkkkkkkkkkبببkkkkffkkkkkkk]:style(display: block !important)
 soft98.ir##div[class*=ghjjj222222ببب2222kk]:style(display: block !important)
@@ -1012,4 +1010,5 @@ soft98.ir##div[class*=y5y]:style(display: block !important)
 soft98.ir##div[class*=yy2y]:style(display: block !important)
 soft98.ir##div[class*=yy1y]:style(display: block !important)
 soft98.ir##div[class*=dk9c]:style(display: block !important)
-
+soft98.ir##.d-lg-inline-block.d-none.nav-item > .nav-link
+soft98.ir###footer-smostafa
