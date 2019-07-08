@@ -1197,3 +1197,8 @@ soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
 soft98.ir##div[class*=djk11c]:style(display: block !important)
 soft98.ir##div[class*=kd1k1d]:style(display: block !important)
 
+soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
+soft98.ir##div[class*=wqewqe]:style(display: block !important)
+soft98.ir##div[class*=kd1k1d]:style(display: block !important)
+soft98.ir##div[class*=djk11c]:style(display: block !important)
