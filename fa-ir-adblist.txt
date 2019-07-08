@@ -1182,3 +1182,5 @@ zoomg.ir##a[href="http://zurl.ir/Uq40I"]
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
 ||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
 ||soft98.ir^$inline-script,first-party
+soft98.ir##div[class*=d-js3-none]:style(display: block !important)
+
