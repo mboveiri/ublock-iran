@@ -634,12 +634,12 @@ soft98.ir##div[class*="d-js3-bloc1k rc dp-1c"]:style(display: block !important)
 soft98.ir##div[class*="dp-1c d-js3-bloc1k "]:style(display: block !important)
 soft98.ir##div[class*="p1-"]:style(display: block !important)
 soft98.ir##div[class*='-bl']:style(display: block !important)
+soft98.ir##div[class*='d-']:style(display: block !important)
+soft98.ir##div[class*='dk']:style(display: block !important)
 soft98.ir##div[class*=bikaria]:style(display: block !important)
 soft98.ir##div[class*=d-js3-b2o6nk]:style(display: block !important)
 soft98.ir##div[class*=d-js3-b2o7nk]:style(display: block !important)
 soft98.ir##div[class*=dnk7c]:style(display: block !important)
-
-
 soft98.ir##div[class*=d-js3-blo11ck]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo12ck]:style(display: block !important)
 soft98.ir##div[class*=d-js3-blo13ck]:style(display: block !important)
@@ -739,6 +739,20 @@ soft98.ir##div[class*=hh1erh]:style(display: block !important)
 soft98.ir##div[class*=hhhh2khkhh]:style(display: block !important)
 soft98.ir##div[class*=hhjjjjj1jjjj]:style(display: block !important)
 soft98.ir##div[class*=hhjjjjj2jjjj]:style(display: block !important)
+soft98.ir##div[class*=hh2hh2khh]:style(display: block !important)
+soft98.ir##div[class*=hh2jjj2jjjj]:style(display: block !important)
+soft98.ir##div[class*=g2ghh2kkk]:style(display: block !important)
+soft98.ir##div[class*=1ii2khh2jkk]:style(display: block !important)
+soft98.ir##div[class*=i2ikjg2kll]:style(display: block !important)
+soft98.ir##div[class*=d-js3-b2o8nk]:style(display: block !important)
+soft98.ir##div[class*=dnk8c]:style(display: block !important)
+soft98.ir##div[class*=hh3hh2khh]:style(display: block !important)
+soft98.ir##div[class*=hh3jjj2jjjj]:style(display: block !important)
+soft98.ir##div[class*=g3ghh2kkk]:style(display: block !important)
+soft98.ir##div[class*=1ii3khh2jkk]:style(display: block !important)
+soft98.ir##div[class*=i3ikjg2kll]:style(display: block !important)
+soft98.ir##div[class*=d-js3-b2o9nk]:style(display: block !important)
+soft98.ir##div[class*=djk9c]:style(display: block !important)
 soft98.ir##div[class*=hj12j]:style(display: block !important)
 soft98.ir##div[class*=iikhh1jjkkk]:style(display: block !important)
 soft98.ir##div[class*=iikhh2jjkkk]:style(display: block !important)
@@ -1168,59 +1182,3 @@ zoomg.ir##a[href="http://zurl.ir/Uq40I"]
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
 ||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
 ||soft98.ir^$inline-script,first-party
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-soft98.ir##div[class*=hh2hh2khh]:style(display: block !important)
-soft98.ir##div[class*=hh2jjj2jjjj]:style(display: block !important)
-soft98.ir##div[class*=g2ghh2kkk]:style(display: block !important)
-soft98.ir##div[class*=1ii2khh2jkk]:style(display: block !important)
-soft98.ir##div[class*=i2ikjg2kll]:style(display: block !important)
-soft98.ir##div[class*=d-js3-b2o8nk]:style(display: block !important)
-soft98.ir##div[class*=dnk8c]:style(display: block !important)
-
-soft98.ir##div[class*=hh3hh2khh]:style(display: block !important)
-soft98.ir##div[class*=hh3jjj2jjjj]:style(display: block !important)
-soft98.ir##div[class*=g3ghh2kkk]:style(display: block !important)
-soft98.ir##div[class*=1ii3khh2jkk]:style(display: block !important)
-soft98.ir##div[class*=i3ikjg2kll]:style(display: block !important)
-soft98.ir##div[class*=d-js3-b2o9nk]:style(display: block !important)
-soft98.ir##div[class*=djk9c]:style(display: block !important)
-
