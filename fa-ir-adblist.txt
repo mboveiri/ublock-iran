@@ -806,6 +806,8 @@ soft98.ir##div[class*=r2z]:style(display: block !important)
 soft98.ir##div[class*=r3c]:style(display: block !important)
 soft98.ir##div[class*=r3z]:style(display: block !important)
 soft98.ir##div[class*=rk]:style(display: block !important)
+soft98.ir##div[class*=d-js3-none]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-none]:style(display: block !important)
 soft98.ir##div[class*=rtretert]:style(display: block !important)
 soft98.ir##div[class*=rz]:style(display: block !important)
 soft98.ir##div[class*=ttrtety]:style(display: block !important)
@@ -1182,7 +1184,3 @@ zoomg.ir##a[href="http://zurl.ir/Uq40I"]
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
 ||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
 ||soft98.ir^$inline-script,first-party
-soft98.ir##div[class*=d-js3-none]:style(display: block !important)
-
-soft98.ir##div[class*=p3-js3-none]:style(display: block !important)
-
