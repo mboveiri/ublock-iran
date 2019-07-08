@@ -1184,3 +1184,16 @@ zoomg.ir##a[href="http://zurl.ir/Uq40I"]
 ||soft98.ir/templates/soft98_default/js/*$script,first-party
 ||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
 ||soft98.ir^$inline-script,first-party
+soft98.ir##div[class*=wqewqe]:style(display: block !important)
+soft98.ir##div[class*=tyrtyry]:style(display: block !important)
+soft98.ir##div[class*=uiouiouo]:style(display: block !important)
+soft98.ir##div[class*=sadadg]:style(display: block !important)
+soft98.ir##div[class*=ghjghjg]:style(display: block !important)
+soft98.ir##div[class*=ljkljjlj]:style(display: block !important)
+soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
+soft98.ir##div[class*=nvvbnvbng]:style(display: block !important)
+soft98.ir##div[class*=fgfgwj]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
+soft98.ir##div[class*=djk11c]:style(display: block !important)
+soft98.ir##div[class*=kd1k1d]:style(display: block !important)
+
