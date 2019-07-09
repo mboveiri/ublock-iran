@@ -1229,3 +1229,8 @@ www.zoomit.ir##img[alt="تاکسی یاب"]
 zoomg.ir###content-anchor-inner > .alert-warning.alert-dismissable.alert
 zoomg.ir###it-ad-header
 zoomg.ir##a[href="http://zurl.ir/Uq40I"]
+soft98.ir##div[class*=f6gj6j]:style(display: block !important)
+soft98.ir##div[class*=p4-js4-b3o1bk]:style(display: block !important)
+soft98.ir##div[class*=fg6g]:style(display: block !important)
+soft98.ir##div[class*=dvk1c]:style(display: block !important)
+soft98.ir##div[class*=h6gh]:style(display: block !important)
