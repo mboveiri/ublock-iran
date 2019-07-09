@@ -151,6 +151,11 @@ http://engine.adfinder.io/pro.ashx
 ||static.locopoc.com/AsrIran
 ||static2.varzesh3.com/files/ads/*.*
 ||storage.beytoote.com/images/banners/*.*
+||cdn.yektanet.com/$subdocument||soft98.ir^$inline-script,first-party
+||soft98.ir/sp-push-worker.js$script,first-party
+||soft98.ir/templates/soft98_default/js/*$script,first-party
+||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
+||soft98.ir^$inline-script,first-party
 ||tehrantimes.com/banner/link3.jpg
 ||tehrantimes.com/banner/tt.jpg
 ||telewebion.com/srsAdvertisementPlugin/file/*
@@ -635,7 +640,10 @@ soft98.ir##div[class*="dp-1c d-js3-bloc1k "]:style(display: block !important)
 soft98.ir##div[class*="p1-"]:style(display: block !important)
 soft98.ir##div[class*='-bl']:style(display: block !important)
 soft98.ir##div[class*='d-']:style(display: block !important)
-soft98.ir##div[class*='dk']:style(display: block !important)
+soft98.ir##div[class*='dj']:style(display: block !important)
+soft98.ir##div[class*='p3-']:style(display: block !important)
+soft98.ir##div[class*='js3-']:style(display: block !important)
+soft98.ir##div[class*='-b2']:style(display: block !important)
 soft98.ir##div[class*=bikaria]:style(display: block !important)
 soft98.ir##div[class*=d-js3-b2o6nk]:style(display: block !important)
 soft98.ir##div[class*=d-js3-b2o7nk]:style(display: block !important)
@@ -881,6 +889,48 @@ soft98.ir##div[class*=پ]:style(display: block !important)
 soft98.ir##div[class*=چ]:style(display: block !important)
 soft98.ir##div[class*=یک]:style(display: block !important)
 soft98.ir##div[style*="display:none"]:style(display: block !important)
+soft98.ir##div[class*=wqewqe]:style(display: block !important)
+soft98.ir##div[class*=tyrtyry]:style(display: block !important)
+soft98.ir##div[class*=uiouiouo]:style(display: block !important)
+soft98.ir##div[class*=sadadg]:style(display: block !important)
+soft98.ir##div[class*=ghjghjg]:style(display: block !important)
+soft98.ir##div[class*=ljkljjlj]:style(display: block !important)
+soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
+soft98.ir##div[class*=nvvbnvbng]:style(display: block !important)
+soft98.ir##div[class*=fgfgwj]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
+soft98.ir##div[class*=djk11c]:style(display: block !important)
+soft98.ir##div[class*=kd1k1d]:style(display: block !important)
+soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
+soft98.ir##div[class*=wqewqe]:style(display: block !important)
+soft98.ir##div[class*=kd1k1d]:style(display: block !important)
+soft98.ir##div[class*=djk11c]:style(display: block !important)
+soft98.ir##div[class*=lolol]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o12nk]:style(display: block !important)
+soft98.ir##div[class*=fgggg]:style(display: block !important)
+soft98.ir##div[class*=hhggh]:style(display: block !important)
+soft98.ir##div[class*=djk12c]:style(display: block !important)
+soft98.ir##div[class*=l3l]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o13nk]:style(display: block !important)
+soft98.ir##div[class*=fg121g]:style(display: block !important)
+soft98.ir##div[class*=h1gh]:style(display: block !important)
+soft98.ir##div[class*=djk13c]:style(display: block !important)
+soft98.ir##div[class*=l22l]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o14nk]:style(display: block !important)
+soft98.ir##div[class*=fg31g]:style(display: block !important)
+soft98.ir##div[class*=h2gh]:style(display: block !important)
+soft98.ir##div[class*=djk14c]:style(display: block !important)
+soft98.ir##div[class*=k4iw4y]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o15nk]:style(display: block !important)
+soft98.ir##div[class*=fg4g]:style(display: block !important)
+soft98.ir##div[class*=djk15c]:style(display: block !important)
+soft98.ir##div[class*=h4gh]:style(display: block !important)
+soft98.ir##div[class*=f5gj5j]:style(display: block !important)
+soft98.ir##div[class*=p3-js3-b2o16nk]:style(display: block !important)
+soft98.ir##div[class*=fg5g]:style(display: block !important)
+soft98.ir##div[class*=djk16c]:style(display: block !important)
+soft98.ir##div[class*=h5gh]:style(display: block !important)
 soft98.ir#$#.d-js-block{ display: block !important; }
 soft98.ir#$#.d-none{ display: block !important; }
 soft98.ir#$#.d-none{ display: block !important; }
@@ -1179,51 +1229,3 @@ www.zoomit.ir##img[alt="تاکسی یاب"]
 zoomg.ir###content-anchor-inner > .alert-warning.alert-dismissable.alert
 zoomg.ir###it-ad-header
 zoomg.ir##a[href="http://zurl.ir/Uq40I"]
-||cdn.yektanet.com/$subdocument||soft98.ir^$inline-script,first-party
-||soft98.ir/sp-push-worker.js$script,first-party
-||soft98.ir/templates/soft98_default/js/*$script,first-party
-||soft98.ir/templates/soft98_default/js/jquery.min.js?v=50$script,first-party
-||soft98.ir^$inline-script,first-party
-soft98.ir##div[class*=wqewqe]:style(display: block !important)
-soft98.ir##div[class*=tyrtyry]:style(display: block !important)
-soft98.ir##div[class*=uiouiouo]:style(display: block !important)
-soft98.ir##div[class*=sadadg]:style(display: block !important)
-soft98.ir##div[class*=ghjghjg]:style(display: block !important)
-soft98.ir##div[class*=ljkljjlj]:style(display: block !important)
-soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
-soft98.ir##div[class*=nvvbnvbng]:style(display: block !important)
-soft98.ir##div[class*=fgfgwj]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
-soft98.ir##div[class*=djk11c]:style(display: block !important)
-soft98.ir##div[class*=kd1k1d]:style(display: block !important)
-
-soft98.ir##div[class*=xzxzxzc]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o11nk]:style(display: block !important)
-soft98.ir##div[class*=wqewqe]:style(display: block !important)
-soft98.ir##div[class*=kd1k1d]:style(display: block !important)
-soft98.ir##div[class*=djk11c]:style(display: block !important)
-soft98.ir##div[class*=lolol]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o12nk]:style(display: block !important)
-soft98.ir##div[class*=fgggg]:style(display: block !important)
-soft98.ir##div[class*=hhggh]:style(display: block !important)
-soft98.ir##div[class*=djk12c]:style(display: block !important)
-soft98.ir##div[class*=l3l]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o13nk]:style(display: block !important)
-soft98.ir##div[class*=fg121g]:style(display: block !important)
-soft98.ir##div[class*=h1gh]:style(display: block !important)
-soft98.ir##div[class*=djk13c]:style(display: block !important)
-soft98.ir##div[class*=l22l]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o14nk]:style(display: block !important)
-soft98.ir##div[class*=fg31g]:style(display: block !important)
-soft98.ir##div[class*=h2gh]:style(display: block !important)
-soft98.ir##div[class*=djk14c]:style(display: block !important)
-soft98.ir##div[class*=k4iw4y]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o15nk]:style(display: block !important)
-soft98.ir##div[class*=fg4g]:style(display: block !important)
-soft98.ir##div[class*=djk15c]:style(display: block !important)
-soft98.ir##div[class*=h4gh]:style(display: block !important)
-soft98.ir##div[class*=f5gj5j]:style(display: block !important)
-soft98.ir##div[class*=p3-js3-b2o16nk]:style(display: block !important)
-soft98.ir##div[class*=fg5g]:style(display: block !important)
-soft98.ir##div[class*=djk16c]:style(display: block !important)
-soft98.ir##div[class*=h5gh]:style(display: block !important)
